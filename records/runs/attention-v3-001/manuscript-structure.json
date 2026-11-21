@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-19T14:04:13.140124+08:00",
+  "result": "pass",
+  "checks": {
+    "all_16_pages_present": true,
+    "body_14_pages": true,
+    "approved_layout_sequence": true,
+    "no_adjacent_same_layout": true,
+    "seven_complete_reference_entries": true,
+    "wiki_frozen": true,
+    "full_HTML_not_generated": true
+  },
+  "scope": "Structure only; independent review reports provide semantics"
+}

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "C01",
+    "url": "https://nobaproject.com/modules/attention",
+    "final_url": "https://nobaproject.com/modules/attention",
+    "retrieved_at": "2026-11-16T12:25:42.262608+00:00",
+    "bytes": 56859,
+    "sha256": "357e54a5792e224ae09e0666378a47df34392e57dc9ca2c4b9da2e8d94c9b46a",
+    "content_type": "text/html; charset=utf-8",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  },
+  {
+    "id": "C02",
+    "url": "https://pansci.asia/archives/4319",
+    "final_url": "https://pansci.asia/archives/4319",
+    "retrieved_at": "2026-11-16T12:25:42.821775+00:00",
+    "bytes": 571701,
+    "sha256": "0d66ddd25b7ee5e2a74fd8b13ef42ca6e6da6356ade8ee4e0ced20aec7e68d87",
+    "content_type": "text/html; charset=UTF-8",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  },
+  {
+    "id": "C04",
+    "url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=4030",
+    "final_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=4030",
+    "retrieved_at": "2026-11-16T12:25:47.359009+00:00",
+    "bytes": 455099,
+    "sha256": "5d73a2b3d208c3837983e869c8d8aefd27f392e7818a5e3e1d6f0e9d4cedba5e",
+    "content_type": "application/octet-stream",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  },
+  {
+    "id": "C05",
+    "url": "https://www.apa.org/topics/research/multitasking",
+    "final_url": "https://www.apa.org/topics/research/multitasking",
+    "retrieved_at": "2026-11-16T12:25:42.150063+00:00",
+    "bytes": 212,
+    "sha256": "d02032286070b4dd9d8fbd985a7bdca8af8edf52b89ff177db3bfcb2c8a9c43d",
+    "content_type": "text/html",
+    "status": "web_reader_body_verified_direct_download_challenge",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "hash_scope": "Incapsula challenge response only; NOT article body",
+    "body_acquisition": "Web reading tool: What the research shows, What the research means, How we use the research; read 2026-11-16",
+    "body_snapshot_retained": false,
+    "verification": "Manually inspected downloaded 212-byte response; no article text; actual article body read via web tool"
+  },
+  {
+    "id": "C06",
+    "url": "https://www.chabris.com/Simons1999.pdf",
+    "final_url": "https://www.chabris.com/Simons1999.pdf",
+    "retrieved_at": "2026-11-16T12:25:42.824929+00:00",
+    "bytes": 291419,
+    "sha256": "93be9203c62b118d9a26611f774d4913c61f99c738fb7ae50752f4701193d48f",
+    "content_type": "application/pdf",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  },
+  {
+    "id": "C07",
+    "url": "https://psychclassics.yorku.ca/Stroop/",
+    "final_url": "https://psychclassics.yorku.ca/Stroop/",
+    "retrieved_at": "2026-11-16T12:25:42.868357+00:00",
+    "bytes": 42144,
+    "sha256": "e24fe4a8177de0afec3d75e6a0017284b58bb3494e10882a2f5a7f6a3968841b",
+    "content_type": "text/html",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  },
+  {
+    "id": "C08",
+    "url": "https://www.psytoolkit.org/experiment-library/stroop.html",
+    "final_url": "https://www.psytoolkit.org/experiment-library/stroop.html",
+    "retrieved_at": "2026-11-16T12:25:43.178111+00:00",
+    "bytes": 40573,
+    "sha256": "83bb6a8c821b0634169b4243e93d7108da57beb3a6e305db92a9c66a257e71a0",
+    "content_type": "text/html",
+    "status": "retrieved",
+    "retention": "Temporary original in /tmp; project stores original paraphrase notes only",
+    "verification": "Source body read; see corresponding source note for exact reading scope"
+  }
+]

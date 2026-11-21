@@ -1,0 +1,14 @@
+{
+  "time": "2026-11-21T14:13:27.376326+08:00",
+  "original_zip": "/workspace/attention-v3-feedback01-delivery.zip",
+  "bytes": 55677561,
+  "entries": 444,
+  "crc_check": "pass",
+  "manifest_files_checked": 441,
+  "manifest_hash_check": "pass",
+  "accepted_html_hash_check": "pass",
+  "user_report": "Codex server error opening download; screenshot request ID db05a73e-7d1f-4ba0-9f55-9e6ece5134b9",
+  "root_cause": "unknown; local archive tests cannot diagnose the remote file service",
+  "remote_file_service_retested": false,
+  "replacement_plan": "Small assignment archive, separate optional screenshots and Git bundle archive, all inside project delivery directory. No HTML or Wiki changes."
+}

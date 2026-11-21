@@ -1,0 +1,41 @@
+{
+  "time": "2026-11-19T15:11:29.526569+08:00",
+  "baseline_commit": "10a260fe1c7e83e705a4d99469253bd225a68e42",
+  "changed_page_ids": [
+    9,
+    12
+  ],
+  "added_root_field": "result_feedback",
+  "unchanged_scoring_and_trials": {
+    "summarize": true,
+    "summarizeSt": true,
+    "makeRound": true,
+    "makeTrials": true
+  },
+  "preservation": {
+    "wiki_and_sources": {
+      "result": "pass",
+      "unchanged": true
+    },
+    "outline": {
+      "result": "pass",
+      "unchanged": true
+    },
+    "approved_sample_and_layout": {
+      "result": "pass",
+      "unchanged": true
+    }
+  },
+  "generation_gate_expected_rejection": "build_deck.py refused pending reviews; previous HTML unchanged",
+  "browser_tests": "feedback01-browser-01.json: 617 pass, zero failures; direct file launch unverified",
+  "html_sha256": "9899bf1d6e717734e8030c9fad818c4fb77cce1a3cfc6fb8decd1b748d1c7100",
+  "manuscript_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+  "visual_inspection": {
+    "screenshots": [
+      "screens/feedback01-browser-01/390-stroop-negative.png",
+      "screens/feedback01-browser-01/1440-p09.png",
+      "screens/feedback01-browser-01/1440-p12.png"
+    ],
+    "result": "No overlap visible in inspected viewports; long content scrolls; not every device or scroll position visually inspected."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source_notes": 7,
+  "claim_rows": 14,
+  "local_links_checked": 100,
+  "errors": [
+    "C05: suspiciously small download; verify actual content"
+  ],
+  "scope": "Structure and references only; semantic support manually reviewed"
+}

@@ -1,0 +1,3119 @@
+{
+  "time": "2026-11-19T14:22:22.815671+08:00",
+  "result": "fail",
+  "mode": "memory-http",
+  "browser_executed": true,
+  "html_sha256": "bd433778faa944ea19491e539f98729076c4e417eb33960dc0c4742977ae603d",
+  "checks": [
+    {
+      "name": "16_total_14_body",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "cover_boundary",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "cover_stays",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "all_next_pages",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_boundary",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "keyboard_previous",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "varied_adjacent_layouts",
+      "result": "pass",
+      "detail": [
+        "cover",
+        "prediction",
+        "concept-map",
+        "listening-case",
+        "study-sequence",
+        "misconception",
+        "dual-timeline",
+        "research-story",
+        "interactive-switch",
+        "results-comparison",
+        "origin-demonstration",
+        "interactive-stroop",
+        "reading-results",
+        "integration-map",
+        "application-cases",
+        "references"
+      ]
+    },
+    {
+      "name": "title_1440_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1440_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1440_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1440_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1440_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1440_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1366_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1366_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1366_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1366_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1366_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_390_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_390_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_390_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_390_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_390_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_0",
+      "result": "fail",
+      "detail": null
+    },
+    {
+      "name": "title_960_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_960_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_960_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_960_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_960_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_960_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_0",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_0",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_1",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_1",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_2",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_2",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_3",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_3",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_4",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_4",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_5",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_5",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_7",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_7",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_9",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_10",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_10",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_11",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_11",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_12",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_13",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_13",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "storyline_1280_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_14",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_14",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "title_1280_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_bounds_1280_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_15",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncation_1280_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "bottom_reachable_1280_15",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "prediction_reveal",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "reviewed_knowledge_retained",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_reader_internal_codes",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_focus",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_return",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "seven_source_entries",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "all_anchor_targets",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_external_assets",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "offline_no_extra_requests",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "switch_matching_scoring",
+      "result": "pass",
+      "detail": {
+        "same": true,
+        "negative": -1200,
+        "unequal": false
+      }
+    },
+    {
+      "name": "switch_practice_excluded",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_complete_24",
+      "result": "pass",
+      "detail": {
+        "phase": "results",
+        "index": 12,
+        "round": 2,
+        "rows": 24,
+        "order": [
+          "mixed",
+          "blocked"
+        ],
+        "trial": null,
+        "result": {
+          "rounds": [
+            {
+              "kind": "blocked",
+              "count": 12,
+              "correct": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "total": 605
+            },
+            {
+              "kind": "mixed",
+              "count": 12,
+              "correct": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "total": 603
+            }
+          ],
+          "eligible": true,
+          "delta": -2
+        }
+      }
+    },
+    {
+      "name": "switch_goes_result_page9",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_restart_clears",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_bad_data_suppressed",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_plain_insufficient",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_skip_no_fake",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_duplicate_input",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "switch_leave_aborts",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_balance_and_scoring",
+      "result": "pass",
+      "detail": {
+        "balanced": true,
+        "negative": -100,
+        "insufficient": false
+      }
+    },
+    {
+      "name": "stroop_complete_practice_excluded",
+      "result": "pass",
+      "detail": {
+        "phase": "results",
+        "index": 28,
+        "rows": 24,
+        "trial": null,
+        "result": {
+          "groups": [
+            {
+              "valid": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "mean": 48.083333333333336
+            },
+            {
+              "valid": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "mean": 57.75
+            }
+          ],
+          "eligible": true,
+          "delta": 9.666666666666664
+        }
+      }
+    },
+    {
+      "name": "stroop_goes_results_page12",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_restart_clears",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_timeout_wrong_insufficient",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_plain_insufficient",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_skip_no_fake",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_duplicate_input",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "stroop_leave_aborts",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "print_shows_all16",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_js_errors",
+      "result": "pass",
+      "detail": []
+    }
+  ],
+  "issues": [
+    {
+      "node": 6,
+      "check": "bottom_reachable_960_0",
+      "detail": null
+    }
+  ],
+  "screenshots": [
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-cover.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p01.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p02.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p03.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p04.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p05.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p06.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p07.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p08.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p09.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p10.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p11.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p12.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p13.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-p14.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1440-sources.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-cover.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p01.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p02.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p03.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p04.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p05.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p06.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p07.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p08.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p09.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p10.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p11.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p12.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p13.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-p14.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1366-sources.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-cover.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p01.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p02.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p03.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p04.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p05.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p06.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p07.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p08.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p09.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p10.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p11.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p12.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p13.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-p14.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/390-sources.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-cover.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p01.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p02.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p03.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p04.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p05.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p06.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p07.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p08.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p09.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p10.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p11.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p12.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p13.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-p14.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/960-sources.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-cover.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p01.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p02.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p03.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p04.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p05.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p06.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p07.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p08.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p09.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p10.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p11.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p12.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p13.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-p14.png",
+    "records/runs/attention-v3-001/screens/full-browser-01/1280-sources.png"
+  ],
+  "direct_file_probe_error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/attention-wiki/attention-v3.html\nCall log:\n  - navigating to \"file:///workspace/attention-wiki/attention-v3.html\", waiting until \"load\"\n",
+  "unverified": [
+    "Direct file:// launch blocked by managed browser policy; full tests used exact bytes at permitted localhost in offline context."
+  ],
+  "scope": "16 slides, 5 viewport/font conditions, both games, citations, offline and print; game inputs synthetic, not participant data.",
+  "external_link_scope": "URLs and local targets validated; live external availability not verified offline."
+}

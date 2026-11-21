@@ -1,0 +1,56 @@
+{
+  "time": "2026-11-19T14:27:42.338557+08:00",
+  "checks": [
+    {
+      "name": "wiki_sources_old_decks_unchanged",
+      "result": "pass",
+      "command": [
+        "git",
+        "diff",
+        "--exit-code",
+        "144fb70",
+        "--",
+        "wiki",
+        "sources",
+        "slides"
+      ],
+      "return_code": 0
+    },
+    {
+      "name": "reviewed_manuscript_and_approved_sample_unchanged",
+      "result": "pass",
+      "command": [
+        "git",
+        "diff",
+        "--exit-code",
+        "e12a627",
+        "--",
+        "samples",
+        "attention-v3-sample.html",
+        "content/v3/manuscript.json",
+        "content/v3/manuscript.md"
+      ],
+      "return_code": 0
+    },
+    {
+      "name": "whitespace",
+      "result": "pass",
+      "command": [
+        "git",
+        "diff",
+        "--check"
+      ],
+      "return_code": 0
+    }
+  ],
+  "html_sha256": "bd433778faa944ea19491e539f98729076c4e417eb33960dc0c4742977ae603d",
+  "manuscript_sha256": "0faead13663b4c2b290fabedbad9fcf249941f732a908df89844e5419a386e96",
+  "visual_inspection": {
+    "screenshots": [
+      "screens/full-browser-02/1440-p10.png",
+      "screens/full-browser-02/1440-p13.png",
+      "screens/full-browser-02/390-p06.png"
+    ],
+    "result": "No overlap visible in the inspected viewport captures; long content intentionally scrolls. Not a claim of every browser or every scroll position."
+  }
+}

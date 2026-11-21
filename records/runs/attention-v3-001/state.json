@@ -1,0 +1,101 @@
+{
+  "run_id": "attention-v3-001",
+  "time": "2026-11-21T14:15:29.827366+08:00",
+  "baseline_commit": "85ab9e6c316bb44e49fd480b71ddac668d510032",
+  "phase": "content_accepted_delivery_repackaged",
+  "gate": "No further content approval required; remote download access not yet confirmed",
+  "current_step": 7,
+  "completed_steps": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "step2_result": "pass_after_authorized_supplement",
+  "knowledge_scope": "wiki/ only",
+  "wiki_input_hashes": {
+    "wiki/01-basics.md": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8",
+    "wiki/02-selection.md": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+    "wiki/03-multitasking.md": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+    "wiki/04-stroop.md": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+    "wiki/05-applications.md": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+    "wiki/claims.md": "1f4be83736fbad3b0957fc1dd648a24181fbd3ada9ae3bf213a936dec6ec57de",
+    "wiki/glossary.md": "d386578c577fb93d92ae05408399715d6568f97ef2567b8861b93d4bbf4f37a7",
+    "wiki/index.md": "a491af4a3e2a4e3f99f8c9d2bb6850bd1f7acb5b2033c577e1948227394a3275",
+    "wiki/uncertainties.md": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc"
+  },
+  "automatic_correction_round": 1,
+  "automatic_correction_limit": 3,
+  "manual_feedback_counts_toward_limit": false,
+  "old_run_preserved": "attention-001",
+  "output_file_planned": "attention-v3.html",
+  "not_started": [],
+  "wiki_supplement_approval": {
+    "user_message": "可以補wiki！再麻煩你了",
+    "recorded_at": "2026-11-18T16:07:48.188418+08:00"
+  },
+  "outline_sha256": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+  "drafts_sha256": "7208e61f34663987d3ee854936c0ade1b9658d8fe0bcdb4758f8cc3e6ccdc9e5",
+  "gate1_approval": {
+    "user_message": "已確認 請製作樣張",
+    "recorded_at": "2026-11-19T13:57:39.954733+08:00",
+    "outline_sha256": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+    "drafts_sha256": "7208e61f34663987d3ee854936c0ade1b9658d8fe0bcdb4758f8cc3e6ccdc9e5"
+  },
+  "manuscript_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+  "sample_sha256": "daee2592fb32866848278f7db4f0e94a10a84aa1bdd17e26afb92715a46f434a",
+  "sample_file": "attention-v3-sample.html",
+  "independent_reviews": [
+    "fidelity-feedback01.json",
+    "teaching-feedback01.json"
+  ],
+  "sample_browser_report": "sample-browser-01.json",
+  "gate2_approval": {
+    "user_message": "已確認！沒問題",
+    "recorded_at": "2026-11-19T14:17:35.790913+08:00",
+    "sample_sha256": "daee2592fb32866848278f7db4f0e94a10a84aa1bdd17e26afb92715a46f434a"
+  },
+  "html_sha256": "9899bf1d6e717734e8030c9fad818c4fb77cce1a3cfc6fb8decd1b748d1c7100",
+  "automatic_correction_remaining": 2,
+  "full_browser_report": "feedback01-browser-01.json",
+  "full_browser_checks_passed": 617,
+  "required_unverified": [
+    "Direct file:// launch blocked by managed browser policy; full tests used exact bytes at permitted localhost in offline context."
+  ],
+  "final_acceptance": true,
+  "correction_cycles": [
+    {
+      "name": "before_manual_feedback01",
+      "automatic_correction_round": 2,
+      "remaining": 1,
+      "baseline_commit": "10a260fe1c7e83e705a4d99469253bd225a68e42"
+    }
+  ],
+  "full_browser_report_before_feedback": "full-browser-02.json",
+  "manual_feedback01": {
+    "recorded_at": "2026-11-19T15:07:56.146241+08:00",
+    "baseline_commit": "10a260fe1c7e83e705a4d99469253bd225a68e42",
+    "classification": "step4_teaching_content_and_step6_dynamic_result_copy",
+    "scope": "Only body9/body12 explanation and both games dynamic feedback; no Wiki or scoring changes",
+    "status": "revised_and_checked_waiting_gate3"
+  },
+  "independent_reviews_pending": false,
+  "gate3_approval": {
+    "recorded_at": "2026-11-21T14:13:27.376326+08:00",
+    "user_message": "確認無問題！但更新的交付包似乎打不開",
+    "html_sha256": "9899bf1d6e717734e8030c9fad818c4fb77cce1a3cfc6fb8decd1b748d1c7100",
+    "scope": "User accepts current content; reports archive access failure. No specific direct-file test method was reported."
+  },
+  "delivery_status": "local_integrity_pass_remote_download_unverified",
+  "delivery_outputs": {
+    "main": "delivery/attention-assignment.zip",
+    "screenshots": "delivery/attention-screenshots.zip",
+    "git_history": "delivery/attention-git-history.zip",
+    "html": "attention-v3.html",
+    "integrity_checks": "delivery/PACKAGE-CHECKS.json"
+  },
+  "delivery_html_unchanged": true
+}

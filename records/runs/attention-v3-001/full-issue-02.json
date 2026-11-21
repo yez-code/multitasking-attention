@@ -1,0 +1,13 @@
+{
+  "time": "2026-11-19T14:22:49.976042+08:00",
+  "result": "fail",
+  "source": "full-browser-01.json",
+  "issue": "Cover scroll reachability checked the entire tall hero container, requiring it to fit in a 960x540 viewport. This is not the requirement for scrollable content.",
+  "correction": "For cover, measure final Start Reading button after scrolling; keep actual last-row reachability tests for other pages. No HTML content or layout change.",
+  "automatic_correction_round": 2,
+  "retest_result": "pass",
+  "retest_report": "full-browser-02.json",
+  "retest_checks": 587,
+  "html_changed": false,
+  "remaining_rounds": 1
+}

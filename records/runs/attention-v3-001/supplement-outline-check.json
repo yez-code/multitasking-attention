@@ -1,0 +1,18 @@
+{
+  "time": "2026-11-18T16:05:55.607467+08:00",
+  "result": "pass",
+  "checks": {
+    "wiki_file_count_14": true,
+    "body_pages_8_15": true,
+    "body_pages_14": true,
+    "cover_and_source_excluded": true,
+    "no_adjacent_same_layout": true,
+    "at_least_four_layouts": true,
+    "all_planned_wiki_files_exist": true,
+    "three_drafts_including_6_and_8": true,
+    "current_wiki_local_links_valid": true
+  },
+  "wiki_links_checked": 115,
+  "errors": [],
+  "scope": "Structural checks only; semantic source matching by current AI, not the two independent manuscript reviews scheduled for step 4."
+}

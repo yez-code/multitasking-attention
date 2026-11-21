@@ -1,0 +1,243 @@
+{
+  "result": "fail",
+  "reviewer_id": "v3_fidelity_01",
+  "context_mode": "fork_turns=none",
+  "input_sha256": "8f61b372dfb36e749fd80864f6da527cdfe56cadeb10625f2aa26af6c443fbf6",
+  "time": "2026-11-19T05:58:59.806537+00:00",
+  "scope": {
+    "read_only_inputs": [
+      "requirements.txt",
+      "outline.json",
+      "manuscript.json",
+      "manuscript.md",
+      "manifest.json",
+      "wiki/"
+    ],
+    "external_sources_used": false,
+    "all_pages_reviewed": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "limits": "逐頁稿忠實度審查；未檢查未提供的HTML或活動實作。"
+  },
+  "per_page_checks": [
+    {
+      "page": 0,
+      "title": "封面：你以為自己注意到了多少？",
+      "wiki_support": "pass",
+      "support": "wiki/index.md; wiki/processing.md",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "課程路線為教學組織；未加入研究數字。"
+    },
+    {
+      "page": 1,
+      "title": "你真的看到眼前的一切嗎？",
+      "wiki_support": "pass",
+      "support": "wiki/02-selection.md; K05–K06",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "車站例子明示教學情境；[5]支援可見不等於察覺。"
+    },
+    {
+      "page": 2,
+      "title": "注意力，是把有限處理能力用在哪裡？",
+      "wiki_support": "pass",
+      "support": "wiki/01-basics.md; wiki/processing.md; K01",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "注意力定義、有限能力與非流水線主張均有支持；書桌明示類比。"
+    },
+    {
+      "page": 3,
+      "title": "吵雜餐廳裡，你為何仍能跟著同學說話？",
+      "wiki_support": "pass",
+      "support": "wiki/07-related-experiments.md; K02–K04",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "Cherry 1953、Moray 1959及雙耳方法均在Wiki；明示Noba二手轉述，保留未注意內容並非完全無加工的限制。"
+    },
+    {
+      "page": 4,
+      "title": "數對傳球，為什麼仍可能漏看意外人物？",
+      "wiki_support": "pass",
+      "support": "wiki/06-research-origins.md; K05",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "姓名、1999、192人、16條件、46%及兩種意外事件均精確；明確限制跨條件比例，未套用任意大猩猩版本。"
+    },
+    {
+      "page": 5,
+      "title": "漏看一次，不代表眼睛壞了",
+      "wiki_support": "pass",
+      "support": "wiki/02-selection.md; wiki/uncertainties.md U04/U07; K06",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "重看／預期限制與非診斷解釋有支持；未擴充為神經學或改變盲視主張。"
+    },
+    {
+      "page": 6,
+      "title": "同時做，和來回做，是兩種不同安排",
+      "wiki_support": "pass",
+      "support": "wiki/03-multitasking.md; wiki/glossary.md; K07–K09",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "同時與切換區分、兩項單獨任務基準及重複任務比較有支持；生活材料與時間軸未假充資料。"
+    },
+    {
+      "page": 7,
+      "title": "換一件事，其實也要付出時間？",
+      "wiki_support": "pass",
+      "support": "wiki/06-research-origins.md; K09",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "2001年四實驗、研究者與材料均限於APA摘要；準備效果稱相關研究且維持APA二手層級，無固定效率數字。"
+    },
+    {
+      "page": 8,
+      "title": "換規則時，你會慢下來嗎？",
+      "wiki_support": "pass",
+      "support": "wiki/teaching-design.md; wiki/03-multitasking.md",
+      "source_attribution": "pass",
+      "unsupported_numbers": "No research numbers invented; activity parameters are design choices, see optional F-O1.",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "奇偶／比5及分段對逐題交替遵循Wiki；6題練習、每輪12題為大綱既定教學設計，文中明示非原實驗重現。樣張內展開結果符合requirements對大綱的局部調整。"
+    },
+    {
+      "page": 9,
+      "title": "比較快慢之前，先看兩輪做得如何",
+      "wiki_support": "pass",
+      "support": "wiki/teaching-design.md; K08–K09",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "先看完成與錯漏、不足不比較、無預期方向照實呈現及熟練限制均有支持；未將活動當穩定能力量測。"
+    },
+    {
+      "page": 10,
+      "title": "只想看墨色，為什麼字義也來干擾？",
+      "wiki_support": "pass",
+      "support": "wiki/06-research-origins.md; wiki/processing.md; K10–K12",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "John Ridley Stroop、1935、口語整張計時及色塊基準均在Wiki；簡化競爭機制與受注意調節的界線清楚。"
+    },
+    {
+      "page": 11,
+      "title": "這次請回答顏色，不要讀字",
+      "wiki_support": "pass",
+      "support": "wiki/04-stroop.md; wiki/teaching-design.md",
+      "source_attribution": "pass",
+      "unsupported_numbers": "No research numbers invented; activity parameters are design choices, see optional F-O1.",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "一致／不一致、回答墨色及中文例子有支持；4+24題／各12題為大綱的活動選擇，5秒為新增教學參數，未宣稱研究數值。"
+    },
+    {
+      "page": 12,
+      "title": "一個差值，能告訴你什麼？",
+      "wiki_support": "pass",
+      "support": "wiki/04-stroop.md; wiki/teaching-design.md; U06",
+      "source_attribution": "pass",
+      "unsupported_numbers": "No research numbers invented; activity parameters are design choices, see optional F-O1.",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "差值方向、只計正確未逾時、錯漏另列、資料不足不解讀與非診斷均有支持。"
+    },
+    {
+      "page": 13,
+      "title": "選擇、分配、處理，其實問的是同一段生活",
+      "wiki_support": "pass",
+      "support": "wiki/processing.md; wiki/05-applications.md",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "三視角及非串行主張忠實；明示組合生活情境不代表現象必同時發生。"
+    },
+    {
+      "page": 14,
+      "title": "把注意力原理變成讀書與駕駛的選擇",
+      "wiki_support": "pass",
+      "support": "wiki/05-applications.md; wiki/07-related-experiments.md; K13–K14",
+      "source_attribution": "pass",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "pass",
+      "evidence": "讀書建議保持推論語氣；Strayer/Johnston 2001、手持與免持均依Noba轉述，不推個人事故率。"
+    },
+    {
+      "page": 15,
+      "title": "資料來源：每個說法都能回頭查",
+      "wiki_support": "pass",
+      "support": "wiki/sources.md",
+      "source_attribution": "fail",
+      "unsupported_numbers": "none",
+      "experiment_vs_teaching_adaptation": "pass",
+      "approved_outline_consistency": "fail",
+      "evidence": "署名與授權摘要準確，但未實際提供大綱要求的七份完整書目、原文連結與取得層級。"
+    }
+  ],
+  "issues": [
+    {
+      "id": "F-R1",
+      "page": 15,
+      "severity": "required",
+      "evidence": "outline.json第15頁要求「完整來源列表與取得層級」及原文連結。manuscript.json第15頁blocks為空，references僅有[1,2,3,4,5,6,7]；manuscript.md第15頁只有「完整來源與原始論文／教材轉述的區別保留在來源頁」的自指說明與編號，並無作者、題名、年份、URL、書目或來源類型。wiki/sources.md已提供七份可用書目，故不是資料缺失。",
+      "suggestion": "在第15頁稿本納入wiki/sources.md七份完整書目與可點原文URL，逐項標記原始論文／教材／APA二手解說／任務文件，保留既有Noba署名和授權。若採結構化來源表，請把該表及第15頁綁定明確納入此份manuscript.json可審內容。"
+    }
+  ],
+  "optional": [
+    {
+      "id": "F-O1",
+      "page": [
+        8,
+        11,
+        12
+      ],
+      "evidence": "Wiki teaching-design.md提醒門檻與題數須清楚標為本活動設計。第8頁已稱課堂教學改編；第11頁未就4/24題與5秒作同樣標示，而activities另有switch的5000ms、正確數>=10且相等及Stroop每條件至少6題門檻。這些未冒充原研究效應量或常模，但獨立閱讀／摺疊細節時來源性質可更明確。",
+      "suggestion": "在兩活動及摺疊計分區共用一句「題數、逾時及比較門檻是本活動的教學設計，不是研究常模」；呈現JSON內實際門檻。"
+    },
+    {
+      "id": "F-O2",
+      "page": 7,
+      "evidence": "準備可減少但未必消除成本的句子稱「相關研究」，取得層級已清楚標為APA；Wiki另有Rogers與Monsell（1995）的具名支持。",
+      "suggestion": "若空間允許，在該句補Rogers與Monsell（1995，依APA轉述），避免讀者把準備結果全部歸入前段2001年的四個實驗。"
+    }
+  ],
+  "overall_evidence": "14頁正文與封面／來源共16頁，四站順序、版型及核心研究範圍與大綱一致；所有研究數字均在Wiki可回查。必要修正集中於來源頁內容尚未落入可審稿本。"
+}

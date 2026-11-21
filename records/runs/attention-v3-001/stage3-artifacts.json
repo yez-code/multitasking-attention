@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-11-18T16:07:48.188418+08:00",
+  "artifacts": {
+    "content/v3/three-page-drafts.md": "7208e61f34663987d3ee854936c0ade1b9658d8fe0bcdb4758f8cc3e6ccdc9e5",
+    "content/v3/outline.json": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+    "content/v3/outline.md": "559f892ad6e936a3ba23158b8f99ecd1234f0bc53733dd8a56190d17576bbe7d"
+  },
+  "wiki_files": 14,
+  "independent_reviews": "not_run_until_step4",
+  "HTML": "not_generated"
+}

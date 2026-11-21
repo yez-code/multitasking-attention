@@ -1,0 +1,12 @@
+{
+  "time": "2026-11-19T15:12:49.192107+08:00",
+  "result": "setup_error_corrected",
+  "issue": "Strictly requiring an empty issues array rejected a passed teaching review containing two explicitly nonblocking recommendations. HTML regeneration did not execute. A browser command was then mistakenly launched on the prior artifact and interrupted before a report completed.",
+  "correction": "Accept only pass reviews with no blocking issues, default unspecified issues to blocking. Add test preflight to reject pending reviews, mismatched HTML hash, and report overwrite.",
+  "old_artifact_test": "aborted; no completed report; partial screenshots preserved under screens/feedback01-aborted-prior-artifact",
+  "automatic_correction_round": 1,
+  "remaining": 2,
+  "content_changed_in_correction": false,
+  "retest": "pass: feedback01-browser-01.json, 617 checks",
+  "generated_commit": "bed7b892a4e4899b4efbf9f6ce17558bce75c94c"
+}

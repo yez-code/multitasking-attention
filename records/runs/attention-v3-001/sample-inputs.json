@@ -1,0 +1,19 @@
+{
+  "wiki_hashes": {
+    "wiki/glossary.md": "81f490253b09105317e0d2f37a89a5976911d5bebd91b4fc222ed201ae433119",
+    "wiki/06-research-origins.md": "1274454a57857fe5b5b87f38a4960ed60d5f7e479711e279bde5e6a2d30cc59a",
+    "wiki/sources.md": "53d8d403a17cdcc91e37b47cccb39836fa6a6e27ad5319cf8620a243f95b8f4f",
+    "wiki/processing.md": "43e12e73a0235f4f440394f02e957f5f784d87b1703e463bdcf8202aa0c35f14",
+    "wiki/03-multitasking.md": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+    "wiki/05-applications.md": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+    "wiki/07-related-experiments.md": "9dfa8d4c117301caccf4357d095c00e1642b786847579298ecfac45ff17998bc",
+    "wiki/index.md": "ec6c92ecedaf8684b35f87d92e12298728e3188dc984ffde5df13e391cf94cad",
+    "wiki/04-stroop.md": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+    "wiki/claims.md": "bd14cd12624720b5ca2d7baa543ed809170680fc61027920aecebed9a79718f9",
+    "wiki/uncertainties.md": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc",
+    "wiki/teaching-design.md": "bf4dd3c8d456930864ab157b5b9388c51dd293af6512e92b6e4eb47f851b703f",
+    "wiki/02-selection.md": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+    "wiki/01-basics.md": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8"
+  },
+  "manuscript_sha256": "0faead13663b4c2b290fabedbad9fcf249941f732a908df89844e5419a386e96"
+}

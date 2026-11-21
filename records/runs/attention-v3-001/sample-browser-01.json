@@ -1,0 +1,544 @@
+{
+  "time": "2026-11-19T14:04:42.250098+08:00",
+  "result": "pass",
+  "checks": [
+    {
+      "name": "exactly_two_slides",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "initial_boundary",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "keyboard_next",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "last_boundary",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "keyboard_previous",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1440_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1440_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1440_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1440_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1440_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1440_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1440_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1440_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1440_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1440_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1366_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1366_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1366_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1366_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1366_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1366_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1366_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1366_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1366_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1366_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_390_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_390_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_390_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_390_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_390_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_390_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_390_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_390_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_390_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_390_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_960_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_960_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_960_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_960_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_960_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_960_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_960_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_960_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_960_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_960_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1280_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1280_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_sample6",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1280_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1280_sample6",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "route_1280_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "horizontal_1280_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "no_overlap_1280_sample8",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "footer_1280_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_truncated_text_1280_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_reachable_1280_sample8",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_dialog",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "source_returns_focus",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_internal_codes",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "embedded_assets",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "offline_no_extra_requests",
+      "result": "pass",
+      "detail": []
+    },
+    {
+      "name": "matched_stimuli_and_schedule",
+      "result": "pass",
+      "detail": {
+        "same": true,
+        "blocked": [
+          "parity",
+          "parity",
+          "parity",
+          "parity",
+          "parity",
+          "parity",
+          "magnitude",
+          "magnitude",
+          "magnitude",
+          "magnitude",
+          "magnitude",
+          "magnitude"
+        ],
+        "mixed": [
+          "parity",
+          "magnitude",
+          "parity",
+          "magnitude",
+          "parity",
+          "magnitude",
+          "parity",
+          "magnitude",
+          "parity",
+          "magnitude",
+          "parity",
+          "magnitude"
+        ],
+        "negative": -1200,
+        "eligible": true,
+        "unequalEligible": false
+      }
+    },
+    {
+      "name": "negative_difference_preserved",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "practice_started",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "practice_excluded",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "complete_and_valid",
+      "result": "pass",
+      "detail": {
+        "phase": "results",
+        "index": 12,
+        "round": 2,
+        "rows": 24,
+        "order": [
+          "mixed",
+          "blocked"
+        ],
+        "trial": null,
+        "result": {
+          "rounds": [
+            {
+              "kind": "blocked",
+              "count": 12,
+              "correct": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "total": 576
+            },
+            {
+              "kind": "mixed",
+              "count": 12,
+              "correct": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "total": 589
+            }
+          ],
+          "eligible": true,
+          "delta": 13
+        }
+      }
+    },
+    {
+      "name": "results_visible",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "restart_clears",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "timeout_wrong_and_insufficient",
+      "result": "pass",
+      "detail": {
+        "phase": "results",
+        "index": 12,
+        "round": 2,
+        "rows": 24,
+        "order": [
+          "blocked",
+          "mixed"
+        ],
+        "trial": null,
+        "result": {
+          "rounds": [
+            {
+              "kind": "blocked",
+              "count": 12,
+              "correct": 10,
+              "wrong": 1,
+              "timeout": 1,
+              "total": 5553
+            },
+            {
+              "kind": "mixed",
+              "count": 12,
+              "correct": 12,
+              "wrong": 0,
+              "timeout": 0,
+              "total": 563
+            }
+          ],
+          "eligible": false,
+          "delta": null
+        }
+      }
+    },
+    {
+      "name": "insufficient_plain_message",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "skip_has_no_fake_score",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "leave_aborts",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "double_input_ignored",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "print_both_slides",
+      "result": "pass",
+      "detail": null
+    },
+    {
+      "name": "no_js_errors",
+      "result": "pass",
+      "detail": []
+    }
+  ],
+  "issues": [],
+  "browser_executed": true,
+  "html_sha256": "daee2592fb32866848278f7db4f0e94a10a84aa1bdd17e26afb92715a46f434a",
+  "screenshots": [
+    "records/runs/attention-v3-001/screens/sample-browser-01/1440-sample6.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/1440-sample8.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/1366-sample6.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/1366-sample8.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/390-sample6.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/390-sample8.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/960-sample6.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/960-sample8.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/1280-sample6.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/1280-sample8.png",
+    "records/runs/attention-v3-001/screens/sample-browser-01/result.png"
+  ],
+  "mode": "exact HTML bytes fulfilled at permitted localhost URL in offline Chromium; no network dependencies",
+  "unverified": [
+    "Direct file:// launch blocked by managed URL policy; not reclassified as tested"
+  ],
+  "synthetic_data": "All test responses and screenshot results are automated inputs, not participant measurements."
+}

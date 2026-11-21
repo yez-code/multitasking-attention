@@ -1,0 +1,493 @@
+{
+  "result": "pass",
+  "reviewer_id": "v3_feedback01_teaching",
+  "review_role": "獨立教學品質審查",
+  "context_mode": "fork_turns=none",
+  "input_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+  "timestamp": "2026-11-19T07:11:14+00:00",
+  "scope": "僅審限定包內稿件、大綱及Wiki；未讀其他專案檔案、舊審查、自評、對話或網頁；未修改教材。只審稿件，UI未驗證，非真人驗收，非新大綱批准。",
+  "manifest_verification": {
+    "result": "pass",
+    "checked_files": 18,
+    "input_sha256_matches_manuscript": true,
+    "files": {
+      "manuscript.md": {
+        "expected": "c6218709d5520cb163a271296754529a7214c5f8ca7803318b618a2fa4fa1319",
+        "actual": "c6218709d5520cb163a271296754529a7214c5f8ca7803318b618a2fa4fa1319",
+        "match": true
+      },
+      "requirements.txt": {
+        "expected": "304384ccdbc3358312284c7ecaeb949b0cff1b849d22b0395d5bc3a99e005d09",
+        "actual": "304384ccdbc3358312284c7ecaeb949b0cff1b849d22b0395d5bc3a99e005d09",
+        "match": true
+      },
+      "outline.json": {
+        "expected": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+        "actual": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+        "match": true
+      },
+      "manuscript.json": {
+        "expected": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+        "actual": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+        "match": true
+      },
+      "wiki/glossary.md": {
+        "expected": "81f490253b09105317e0d2f37a89a5976911d5bebd91b4fc222ed201ae433119",
+        "actual": "81f490253b09105317e0d2f37a89a5976911d5bebd91b4fc222ed201ae433119",
+        "match": true
+      },
+      "wiki/06-research-origins.md": {
+        "expected": "1274454a57857fe5b5b87f38a4960ed60d5f7e479711e279bde5e6a2d30cc59a",
+        "actual": "1274454a57857fe5b5b87f38a4960ed60d5f7e479711e279bde5e6a2d30cc59a",
+        "match": true
+      },
+      "wiki/sources.md": {
+        "expected": "53d8d403a17cdcc91e37b47cccb39836fa6a6e27ad5319cf8620a243f95b8f4f",
+        "actual": "53d8d403a17cdcc91e37b47cccb39836fa6a6e27ad5319cf8620a243f95b8f4f",
+        "match": true
+      },
+      "wiki/processing.md": {
+        "expected": "43e12e73a0235f4f440394f02e957f5f784d87b1703e463bdcf8202aa0c35f14",
+        "actual": "43e12e73a0235f4f440394f02e957f5f784d87b1703e463bdcf8202aa0c35f14",
+        "match": true
+      },
+      "wiki/03-multitasking.md": {
+        "expected": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+        "actual": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+        "match": true
+      },
+      "wiki/05-applications.md": {
+        "expected": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+        "actual": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+        "match": true
+      },
+      "wiki/07-related-experiments.md": {
+        "expected": "9dfa8d4c117301caccf4357d095c00e1642b786847579298ecfac45ff17998bc",
+        "actual": "9dfa8d4c117301caccf4357d095c00e1642b786847579298ecfac45ff17998bc",
+        "match": true
+      },
+      "wiki/index.md": {
+        "expected": "ec6c92ecedaf8684b35f87d92e12298728e3188dc984ffde5df13e391cf94cad",
+        "actual": "ec6c92ecedaf8684b35f87d92e12298728e3188dc984ffde5df13e391cf94cad",
+        "match": true
+      },
+      "wiki/04-stroop.md": {
+        "expected": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+        "actual": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+        "match": true
+      },
+      "wiki/claims.md": {
+        "expected": "bd14cd12624720b5ca2d7baa543ed809170680fc61027920aecebed9a79718f9",
+        "actual": "bd14cd12624720b5ca2d7baa543ed809170680fc61027920aecebed9a79718f9",
+        "match": true
+      },
+      "wiki/uncertainties.md": {
+        "expected": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc",
+        "actual": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc",
+        "match": true
+      },
+      "wiki/teaching-design.md": {
+        "expected": "bf4dd3c8d456930864ab157b5b9388c51dd293af6512e92b6e4eb47f851b703f",
+        "actual": "bf4dd3c8d456930864ab157b5b9388c51dd293af6512e92b6e4eb47f851b703f",
+        "match": true
+      },
+      "wiki/02-selection.md": {
+        "expected": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+        "actual": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+        "match": true
+      },
+      "wiki/01-basics.md": {
+        "expected": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8",
+        "actual": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8",
+        "match": true
+      }
+    }
+  },
+  "summary": "14頁正文及封面／來源齊；核心概念有首次英文、白話與生活情境。正文9與12已解釋研究發現、原理、活動方向與當次結果的關係；八分支不以一次結果診斷能力或判因。沒有教學品質阻擋問題。",
+  "structural_checks": {
+    "body_pages": 14,
+    "cover_and_source_pages": 2,
+    "storyline": [
+      "選擇",
+      "分配",
+      "處理",
+      "回到生活"
+    ],
+    "distinct_layouts": 16,
+    "adjacent_same_layouts": [],
+    "outline_structure": "頁碼、頁名、主線與版型與包內outline一致；正文9/12增加Wiki定位並保留既定頁序。大綱status不作本審批准。",
+    "markdown_json_consistency": "人工對讀逐頁正文及八則分支，未見實質內容差異。"
+  },
+  "issues": [
+    {
+      "id": "T01",
+      "severity": "minor",
+      "blocking": false,
+      "pages": [
+        9,
+        12
+      ],
+      "location": "pages[9], pages[12] 文字層次與可掃讀性",
+      "finding": "9與12分別有534與547字（不含標籤），明顯高於其他正文，另需承載動態數值。稿件有清楚分節，尚無證據判為文字牆，但實際同屏密度存在待驗風險。",
+      "recommendation": "瀏覽器檢查時保留主旨及當次解讀的優先層級，確認研究差異、可能因素與限制可逐段掃讀；必要時運用稿件既有摺疊區。不得刪掉原理或不相符解釋來換取短文。",
+      "basis": "requirements.txt可掃讀要求；UI未驗證，僅稿件層級提醒。"
+    },
+    {
+      "id": "T02",
+      "severity": "minor",
+      "blocking": false,
+      "pages": [
+        8
+      ],
+      "location": "pages[8].closing",
+      "finding": "「兩頁樣張先在活動內展開結果，完整簡報再將解讀放到正文9」是製作流程資訊，對自學讀者沒有教學用途，會打斷活動到解讀的連接。",
+      "recommendation": "成品讀者文案改保留跳過／重來及下一頁讀結果的導引；製作流程資訊留在內部規格。",
+      "basis": "無講者自行閱讀與四站主線要求；本次只提意見，不修改教材。"
+    }
+  ],
+  "blocking_issue_count": 0,
+  "pages": [
+    {
+      "page": 0,
+      "title": "封面：你以為自己注意到了多少？",
+      "stage": "全程",
+      "layout": "cover",
+      "result": "pass",
+      "term_plain_example": "導入頁暫不教術語，三問與讀書／駕駛交代學習用途。",
+      "core_message_and_storyline": "從自信預測進入注意限制；四站方向清楚。",
+      "hierarchy_and_scanability": "封面大句、短說明、路線結語；可掃讀。",
+      "layout_vs_previous": "不適用",
+      "text_chars_excluding_labels": 102,
+      "check_question": "本課最後要把注意力原理用在哪兩種情境？",
+      "answer": "讀書與駕駛，並以選擇、分配、處理三問理解。"
+    },
+    {
+      "page": 1,
+      "title": "你真的看到眼前的一切嗎？",
+      "stage": "選擇",
+      "layout": "prediction",
+      "result": "pass",
+      "term_plain_example": "刻意先用車站生活情境，尚未命名現象，符合預測頁用途。",
+      "core_message_and_storyline": "明顯可見不保證察覺；後接可檢查的傳球研究。",
+      "hierarchy_and_scanability": "先猜／揭曉分層，沒有把預測當能力分數。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 170,
+      "check_question": "專找出口沒看見熟人，可以立刻判斷注意力很差嗎？",
+      "answer": "不可以；這是教學情境，目標可能影響察覺，一次漏看不能診斷能力。"
+    },
+    {
+      "page": 2,
+      "title": "注意力，是把有限處理能力用在哪裡？",
+      "stage": "選擇",
+      "layout": "concept-map",
+      "result": "pass",
+      "term_plain_example": "attention首次附英文，有限處理能力有白話、書桌類比與讀書／回訊息例子。",
+      "core_message_and_storyline": "三問建立全課地圖，明說不是腦內固定次序。",
+      "hierarchy_and_scanability": "三個問題與類比分開，主旨易找。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 192,
+      "check_question": "分配與處理各在問什麼？",
+      "answer": "分配問多件任務怎麼安排；處理問哪些資訊會干擾反應。"
+    },
+    {
+      "page": 3,
+      "title": "吵雜餐廳裡，你為何仍能跟著同學說話？",
+      "stage": "選擇",
+      "layout": "listening-case",
+      "result": "pass",
+      "term_plain_example": "selective attention、dichotic listening、cocktail party effect均附英文；餐廳與兩耳作業解釋足以自學。",
+      "core_message_and_storyline": "由日常聲音選擇連到可報告內容，保留未注意不等於未加工。",
+      "hierarchy_and_scanability": "場景、研究、結果與效應側例分層；三新詞仍有具體說明。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 313,
+      "check_question": "能跟讀一耳，是否代表另一耳完全沒有加工？",
+      "answer": "不是；能報告的聲音特徵與意思不同，不能由報告限制推論完全沒加工。"
+    },
+    {
+      "page": 4,
+      "title": "數對傳球，為什麼仍可能漏看意外人物？",
+      "stage": "選擇",
+      "layout": "study-sequence",
+      "result": "pass",
+      "term_plain_example": "inattentional blindness首次附英文與白話，傳球研究連回找出口例子。",
+      "core_message_and_storyline": "起源、方法、結果、原理、限制齊；46%分母與跨條件範圍清楚。",
+      "hierarchy_and_scanability": "問題→方法→結果的順序可自行讀懂。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 317,
+      "check_question": "46%是否表示任何大猩猩影片都固定有46%的人漏看？",
+      "answer": "不是；它是192人跨16條件、包含不同意外事件的漏看率。"
+    },
+    {
+      "page": 5,
+      "title": "漏看一次，不代表眼睛壞了",
+      "stage": "選擇",
+      "layout": "misconception",
+      "result": "pass",
+      "term_plain_example": "沿用已教的非注意盲視，白話區分未察覺與視力損傷，車站例子可遷移。",
+      "core_message_and_storyline": "修正能力標籤與重看誤解，結語自然進入分配。",
+      "hierarchy_and_scanability": "誤解／較準確解釋成對；無新增術語負擔。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 195,
+      "check_question": "為何第二次看到意外人物不能證明第一次原本也一定看得到？",
+      "answer": "已知事件或重看可能改變觀察策略，已不是相同的首次情境。"
+    },
+    {
+      "page": 6,
+      "title": "同時做，和來回做，是兩種不同安排",
+      "stage": "分配",
+      "layout": "dual-timeline",
+      "result": "pass",
+      "term_plain_example": "multitasking、divided attention、dual task、task switching首次附英文；邊讀邊聽和停讀回訊息有白話區別。",
+      "core_message_and_storyline": "兩種安排各配比較基準，切換遊戲不會被誤當同時雙重任務。",
+      "hierarchy_and_scanability": "四小節成兩對可掃讀；時間軸數值限制已說明，實際圖形未驗證。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 336,
+      "check_question": "如何比較邊聽邊讀的表現，才不會只看閱讀完成與否？",
+      "answer": "閱讀與聽話都要各自有單獨進行基準，再比較同時進行時兩項的表現。"
+    },
+    {
+      "page": 7,
+      "title": "換一件事，其實也要付出時間？",
+      "stage": "分配",
+      "layout": "research-story",
+      "result": "pass",
+      "term_plain_example": "switch cost首次附英文與接上規則的白話，讀課文改回訊息為明示教學例子。",
+      "core_message_and_storyline": "2001研究的問題、任務、結果與條件限制齊；來源是APA二手轉述。",
+      "hierarchy_and_scanability": "研究故事分問法、做法、結果與生活例子，層次清楚。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 352,
+      "check_question": "增加準備時間是否保證切換成本歸零？",
+      "answer": "不保證；研究綜整指出可減少但未必消除，複雜度與熟悉度也有影響。"
+    },
+    {
+      "page": 8,
+      "title": "換規則時，你會慢下來嗎？",
+      "stage": "分配",
+      "layout": "interactive-switch",
+      "result": "pass",
+      "term_plain_example": "沿用切換概念，7的兩種判斷示例清楚；練習與正式任務可自行理解。",
+      "core_message_and_storyline": "同種類同題數、改變安排，分段和交替不是同時做。",
+      "hierarchy_and_scanability": "規則→練習→兩輪→匹配條件清楚；結語混入樣張製作資訊，見T02。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 258,
+      "check_question": "兩輪主要改變與保留的條件各是什麼？",
+      "answer": "改變規則安排：分段中間換一次，交替逐題換；保留任務種類、題數、數字範圍與按鍵方式。"
+    },
+    {
+      "page": 9,
+      "title": "比較快慢之前，先看兩輪做得如何",
+      "stage": "分配",
+      "layout": "results-comparison",
+      "result": "pass",
+      "term_plain_example": "切換成本重述且有接回課文脈絡的生活類比；不只告知有／無差值。",
+      "core_message_and_storyline": "研究發現→調整目標規則原理→交替較慢預期→實際方向與可能因素，主線完整。",
+      "hierarchy_and_scanability": "四問式小節與生活例子可掃讀；534字，需留意結果數值加上後的畫面密度，見T01。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 534,
+      "check_question": "若交替輪較快，可否說已推翻研究或證明日常多工更有效率？",
+      "answer": "不可以；這次沒有預期方向，練習、順序、熟悉度與操作是可能因素，總時間差也非單題純切換成本。"
+    },
+    {
+      "page": 10,
+      "title": "只想看墨色，為什麼字義也來干擾？",
+      "stage": "處理",
+      "layout": "origin-demonstration",
+      "result": "pass",
+      "term_plain_example": "automatic processing、Stroop effect首次附英文；熟悉字義容易啟動為白話生活情境。",
+      "core_message_and_storyline": "1935起源、口語色塊基準、結果及簡化原理限制齊，接回選目標後仍有干擾。",
+      "hierarchy_and_scanability": "起源→方法→結果→前兩站連結層次明確。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 333,
+      "check_question": "原始Stroop的墨色作業以什麼作基準，與本活動有何差別？",
+      "answer": "原研究比較衝突色字墨色命名與色塊命名，口語整張計時；本活動逐題按鍵比較不一致與一致色字。"
+    },
+    {
+      "page": 11,
+      "title": "這次請回答顏色，不要讀字",
+      "stage": "處理",
+      "layout": "interactive-stroop",
+      "result": "pass",
+      "term_plain_example": "一致／不一致用字義和墨色的關係直接定義；藍色紅字答藍的例子消除操作歧義。",
+      "core_message_and_storyline": "指定墨色目標並觀察干擾，明示不直接推估生活多工效率。",
+      "hierarchy_and_scanability": "作答規則、練習、正式、生活連結分層；操作及記憶體宣稱須另驗UI。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 211,
+      "check_question": "以藍色顯示「紅」時答什麼，屬哪個條件？",
+      "answer": "答藍，屬不一致；作答依據是墨色而非字義。"
+    },
+    {
+      "page": 12,
+      "title": "一個差值，能告訴你什麼？",
+      "stage": "處理",
+      "layout": "reading-results",
+      "result": "pass",
+      "term_plain_example": "Stroop白話原理重述，正零負以公式拆解，熟悉文字例子有遷移界線。",
+      "core_message_and_storyline": "原始發現與活動推論分明；當次方向不等於因果、能力或理論的判決。",
+      "hierarchy_and_scanability": "原研究／本次／可能因素／共通限制分層；547字，見T01畫面密度提醒。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 547,
+      "check_question": "差值為負或資料不足，分別能解釋什麼？",
+      "answer": "負值只表示這次不一致較快，未呈現預期方向；不足時不解讀差值或個人表現，但仍可學原研究與原理。"
+    },
+    {
+      "page": 13,
+      "title": "選擇、分配、處理，其實問的是同一段生活",
+      "stage": "回到生活",
+      "layout": "integration-map",
+      "result": "pass",
+      "term_plain_example": "沿用三個視角，給讀課文、回訊息、字義干擾例子，不要求另背新詞。",
+      "core_message_and_storyline": "接回同段生活且不暗示腦內固定流水線；三現象不必同時發生。",
+      "hierarchy_and_scanability": "三分支加整合段，主線回收明確。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 225,
+      "check_question": "為何選好墨色目標後，還要談「處理」？",
+      "answer": "選定目標不保證排除無關字義；處理視角問這些資訊如何影響反應。"
+    },
+    {
+      "page": 14,
+      "title": "把注意力原理變成讀書與駕駛的選擇",
+      "stage": "回到生活",
+      "layout": "application-cases",
+      "result": "pass",
+      "term_plain_example": "沿用既有術語；非緊急訊息與手持／免持通話都是具體生活案例。",
+      "core_message_and_storyline": "有條件地提出可嘗試做法，駕駛研究標明Noba轉述且不推估事故率。",
+      "hierarchy_and_scanability": "兩案例→三問示範→自行練習，適合無講者閱讀。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 282,
+      "check_question": "免持通話是否保證駕駛注意力完全保留？",
+      "answer": "不保證；通話的認知要求也可能干擾表現，問題不只在手與眼。"
+    },
+    {
+      "page": 15,
+      "title": "資料來源：每個說法都能回頭查",
+      "stage": "全程回顧",
+      "layout": "references",
+      "result": "pass",
+      "term_plain_example": "來源頁不新增教學概念，書目保留原始論文與教材轉述之別。",
+      "core_message_and_storyline": "回查來源的核心用途清楚，無擴張到包外知識。",
+      "hierarchy_and_scanability": "七來源逐條分節可查，密集書目屬參照頁；實際字級與導航尚未驗證。",
+      "layout_vs_previous": "與前頁不同；稿件層級通過，UI未驗證",
+      "text_chars_excluding_labels": 1718,
+      "check_question": "Rubinstein等人的研究在本課是直接閱讀原論文，還是經APA轉述？",
+      "answer": "經APA專業機構解說轉述；不能聲稱另讀過其原始論文。"
+    }
+  ],
+  "focus_assessment": {
+    "page9": "pass：先分原研究切換／重複與活動分段／交替，再講調整目標規則與方向；總時間差非純切換成本，未測同時做。",
+    "page12": "pass：明分色塊口語原始研究與一致／不一致逐題按鍵活動；活動預期明標原理推論，正零負不當成理論或能力判決。",
+    "unsupported_cause_diagnosis": "未見。練習、順序、熟悉度、操作和錯漏依Wiki提出為可能因素。少題下平均受個別作答影響屬合理教學測量推論，不冒稱原始研究發現。",
+    "insufficient_data": "pass：兩分支均不比較、不判相符，仍可閱讀研究與原理；沒有個人成績或常模判讀。",
+    "activity_parameters": "題數、逾時和正確門檻存在activities欄，為設計規格；正文與分支未冒稱研究常模。英文門檻規格能否在摺疊區轉為讀者看得懂的說明，尚待UI驗證。"
+  },
+  "branch_assessment": [
+    {
+      "activity": "switch",
+      "branch": "positive",
+      "result": "pass",
+      "feedback": "這次交替輪較慢，方向與切換需調整目標與規則的預期一致。這不是研究中單一切換題的純成本，也沒有測出「同時做」是否更快。",
+      "direction_interpretation": "交替較慢，與調整目標及規則的預期同方向。",
+      "boundary_and_learning": "主動提醒不是單題純切換成本，也不是同時多工測量；與正文9/12合讀不造成因果或能力判定。",
+      "evidence": [
+        "manuscript.json/result_feedback/switch/positive",
+        "manuscript.json/pages/9",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "switch",
+      "branch": "zero",
+      "result": "pass",
+      "feedback": "這次兩輪時間相同，未呈現交替輪較慢的預期方向。一次相同不表示切換沒有成本；請連同練習、順序、規則熟悉度與操作情況理解。",
+      "direction_interpretation": "兩輪相同，明說未呈現交替較慢。",
+      "boundary_and_learning": "不是切換沒有成本的證明；練習、順序、熟悉度及操作僅供理解，沒有直接歸因。",
+      "evidence": [
+        "manuscript.json/result_feedback/switch/zero",
+        "manuscript.json/pages/9",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "switch",
+      "branch": "negative",
+      "result": "pass",
+      "feedback": "這次交替輪較快，方向與交替輪較慢的預期不同。練習、順序、規則熟悉度與操作都可能影響；本活動無法判定是哪個原因，也不能因此推翻研究或認定你多工更好。",
+      "direction_interpretation": "交替較快，明說方向與預期不同。",
+      "boundary_and_learning": "提出Wiki允許的可能因素，明說無法判因、不能推翻研究或判定多工較好。",
+      "evidence": [
+        "manuscript.json/result_feedback/switch/negative",
+        "manuscript.json/pages/9",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "switch",
+      "branch": "insufficient",
+      "result": "pass",
+      "feedback": "這次先不比較快慢：兩輪未完整完成，或逾時／正確情況不適合比較，因此也不判定是否符合研究預期。仍可閱讀下方的研究發現與原理解釋。",
+      "direction_interpretation": "未完成、逾時或正確情況不適合比較，不比較快慢亦不判定相符。",
+      "boundary_and_learning": "保留閱讀研究發現與原理的途徑，不給個人成績解釋。",
+      "evidence": [
+        "manuscript.json/result_feedback/switch/insufficient",
+        "manuscript.json/pages/9",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "stroop",
+      "branch": "positive",
+      "result": "pass",
+      "feedback": "這次不一致條件較慢，方向與字義干擾墨色作答的預期一致。它支持理解這個現象，但一次按鍵結果不能證明機制；原研究用色塊作基準，數值也不能直接相比。",
+      "direction_interpretation": "不一致較慢，與字義干擾墨色的預期同方向。",
+      "boundary_and_learning": "原理只作解釋，單次不證明機制；另提醒原研究色塊基準不可混用。",
+      "evidence": [
+        "manuscript.json/result_feedback/stroop/positive",
+        "manuscript.json/pages/12",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "stroop",
+      "branch": "zero",
+      "result": "pass",
+      "feedback": "這次兩條件平均相同，未呈現不一致較慢的預期方向。一次相同不代表沒有字義干擾；先看練習、題目先後、按鍵操作，以及錯誤與逾時。",
+      "direction_interpretation": "兩條件平均相同，明說未呈現不一致較慢。",
+      "boundary_and_learning": "不推成無字義干擾；提醒練習、先後、操作、錯誤及逾時；因素依Wiki屬可能干擾。",
+      "evidence": [
+        "manuscript.json/result_feedback/stroop/zero",
+        "manuscript.json/pages/12",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "stroop",
+      "branch": "negative",
+      "result": "pass",
+      "feedback": "這次不一致條件較快，方向與字義干擾的預期不同。練習、題目先後、按鍵操作與少量作答都可能影響平均；無法由差值判定原因，也不表示你沒有干擾或注意力更好。",
+      "direction_interpretation": "不一致較快，明說與干擾預期不同。",
+      "boundary_and_learning": "不由差值判因或貼能力標籤；少量作答影響平均屬教學測量推論，不冒稱原始發現。",
+      "evidence": [
+        "manuscript.json/result_feedback/stroop/negative",
+        "manuscript.json/pages/12",
+        "wiki/teaching-design.md"
+      ]
+    },
+    {
+      "activity": "stroop",
+      "branch": "insufficient",
+      "result": "pass",
+      "feedback": "這次資料不足，先不解讀差值，也不判定是否符合預期。請先看錯誤及逾時；即使跳過，仍可閱讀下方的原研究與干擾原理解釋。",
+      "direction_interpretation": "資料不足先不解讀，也不判定相符。",
+      "boundary_and_learning": "跳過仍可學原研究與原理；要求看錯誤逾時，不評個人成績。",
+      "evidence": [
+        "manuscript.json/result_feedback/stroop/insufficient",
+        "manuscript.json/pages/12",
+        "wiki/teaching-design.md"
+      ]
+    }
+  ],
+  "limitations": [
+    "未檢視HTML、實際動態數值、分支觸發、摺疊區、字級或手機版畫面。",
+    "題數與門檻只核對稿件，不驗證程式計分或資料流。",
+    "本審查不取代真人自學測試或研究的外部查證。"
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "reviewer_id": "v3-teaching-02-independent",
+  "context_mode": "fork_turns=none",
+  "review_type": "independent teaching-quality manuscript review",
+  "input_sha256": "0faead13663b4c2b290fabedbad9fcf249941f732a908df89844e5419a386e96",
+  "timestamp": "2026-11-19T06:04:10.363398+00:00",
+  "result": "pass",
+  "scope": "僅限指定封存包的requirements.txt、outline.json、manuscript.json、manuscript.md、manifest.json與wiki/。未讀其他專案檔案、歷史、生成評語、對話或網頁；未修改教材。",
+  "ui_reviewed": false,
+  "ui_result": "not reviewed",
+  "decision": "逐頁稿可支持無心理背景大學生自行閱讀；14頁正文與封面／來源共16頁，核心術語、白話與生活連結足夠。通過僅指稿件教學品質，不代表樣張或實際UI通過。",
+  "summary_checks": {
+    "body_pages": 14,
+    "total_pages": 16,
+    "distinct_layouts": 16,
+    "adjacent_layouts_differ": true,
+    "storyline": "選擇1–5→分配6–9→處理10–12→回到生活13–14；封面總覽，來源回顧。每頁stage與四站標示規劃可見，呈現效果待UI。",
+    "research_stories": "正文4、7、10均有誰／何時／問題背景、做法、結果、原理與限制。正文3的雙耳分聽是簡短補充；正文14的駕駛研究依包內Wiki允許為應用短註，未冒稱原始研究重現。",
+    "games": "切換6題練習、兩輪各12題、隨機先後、可跳過／重來；兩輪完整、無逾時、正確數相同且至少10才比較。Stroop4題練習、24題正式、正確未逾時反應計算且各條件至少6題。題數與門檻屬活動設計，正文保留不足不解讀及非診斷限制。",
+    "sample_scope": "只待正文6與8兩樣張；正文8結尾明示樣張結果在活動內展開，不需增加第三張。",
+    "comprehension": "16頁均由本審查另擬一題與答案；核心頁的答案能由當頁或已建立的概念直接支持。"
+  },
+  "pages": [
+    {
+      "page_id": 0,
+      "title": "封面：你以為自己注意到了多少？",
+      "result": "pass",
+      "term": "N/A：封面不引入核心術語。",
+      "plain_language": "N/A：封面定位與課程路線已用日常語言說明。",
+      "life_example": "讀書與駕駛是本課將返回的生活場景。",
+      "one_sentence_core": "用注意力的選擇、分配與處理三問，理解生活中的限制。",
+      "visible_storyline": "全程路線在說明與結尾可讀；四站顯示屬版型規劃。",
+      "independent_comprehension_question": "讀者為何會先猜答案再接觸研究？",
+      "independent_comprehension_answer": "先留下直覺預測，再用可檢查的研究與活動重新理解注意力限制。",
+      "layout_adjacency": {
+        "layout": "cover",
+        "previous": null,
+        "next": "prediction",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "短主張＋一段說明＋路線，封面層級清楚。",
+      "multitasking_and_stroop_connection": "先總覽兩段主題，未將多工與Stroop混作同一測驗。"
+    },
+    {
+      "page_id": 1,
+      "title": "你真的看到眼前的一切嗎？",
+      "result": "pass",
+      "term": "N/A：開場預測頁刻意先不給術語；術語在正文4補上。",
+      "plain_language": "眼前可見不保證已被注意到。",
+      "life_example": "車站找出口而漏看熟人，明示教學例子。",
+      "one_sentence_core": "投入一個目標時，仍可能漏掉明顯的其他事物。",
+      "visible_storyline": "選擇段；先猜→揭曉→傳球研究，銜接可讀。",
+      "independent_comprehension_question": "若你選「一定會」，揭曉是否證明你的能力很差？",
+      "independent_comprehension_answer": "不能；這裡只是情境預測，沒有對你進行察覺實驗或能力測量。",
+      "layout_adjacency": {
+        "layout": "prediction",
+        "previous": "cover",
+        "next": "concept-map",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "兩個簡短步驟，揭曉分層合理。",
+      "multitasking_and_stroop_connection": "建立選擇問題，尚不需要多工或Stroop的操作細節。"
+    },
+    {
+      "page_id": 2,
+      "title": "注意力，是把有限處理能力用在哪裡？",
+      "result": "pass",
+      "term": "注意力 attention 首次附英文；三個問題是教學視角。",
+      "plain_language": "有限能力要決定優先處理什麼，並安排多項工作。",
+      "life_example": "讀課文、聽人說話、回訊息；書桌比喻標成教學類比。",
+      "one_sentence_core": "三個問題整理注意力限制，但不代表大腦的固定運作順序。",
+      "visible_storyline": "選擇段概念地圖預告分配、處理與生活。",
+      "independent_comprehension_question": "把三問畫成地圖，能否據此說大腦一定先選擇再分配？",
+      "independent_comprehension_answer": "不能；這是理解問題的視角，不是已證明的固定串行機制。",
+      "layout_adjacency": {
+        "layout": "concept-map",
+        "previous": "prediction",
+        "next": "listening-case",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "三個平行提問＋一則類比，易於掃讀。",
+      "multitasking_and_stroop_connection": "同時／切換與墨色受字義干擾已分別預告。"
+    },
+    {
+      "page_id": 3,
+      "title": "吵雜餐廳裡，你為何仍能跟著同學說話？",
+      "result": "pass",
+      "term": "選擇性注意力 selective attention；雙耳分聽 dichotic listening；雞尾酒會效應 cocktail party effect 首次有英文。",
+      "plain_language": "優先理解一段對話，不等於其他聲音消失；雙耳分聽作業有具體說明。",
+      "life_example": "餐廳聽同學，隔壁桌聲音仍在卻未必能逐句重述。",
+      "one_sentence_core": "被優先注意的聲音較能報告，未報告不能等同完全沒加工。",
+      "visible_storyline": "選擇段從日常→研究作業→結果→限制。",
+      "independent_comprehension_question": "能說出未跟讀耳的音高，卻說不出完整內容，應怎樣解釋？",
+      "independent_comprehension_answer": "可報告的聲音特徵與意思不同；注意優先影響可報告內容，不能推出未注意訊息全無加工。",
+      "layout_adjacency": {
+        "layout": "listening-case",
+        "previous": "concept-map",
+        "next": "study-sequence",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "本頁含三術語與研究，較密，但餐廳／研究／結果／側註的標題有分層。",
+      "multitasking_and_stroop_connection": "為後面的無關字義仍可能干擾建立概念前提，未聲稱兩現象相同。"
+    },
+    {
+      "page_id": 4,
+      "title": "數對傳球，為什麼仍可能漏看意外人物？",
+      "result": "pass",
+      "term": "非注意盲視 inattentional blindness 首次附英文。",
+      "plain_language": "看見畫面不代表察覺其中每件事。",
+      "life_example": "只顧找出口而漏看熟人。",
+      "one_sentence_core": "傳球任務說明察覺受到注意目標與任務條件影響。",
+      "visible_storyline": "選擇段承接開場預測，問題→做法→結果→比例限制。",
+      "independent_comprehension_question": "另一版本研究若不是46%漏看，是否已和此頁互相矛盾？",
+      "independent_comprehension_answer": "未必；46%來自192人跨16條件，不能當作每個版本或每個人的固定比例。",
+      "layout_adjacency": {
+        "layout": "study-sequence",
+        "previous": "listening-case",
+        "next": "misconception",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "研究資訊較多，仍集中單一數字46%，方法與限制有獨立位置。",
+      "multitasking_and_stroop_connection": "本頁聚焦察覺，不把漏看率當多工或Stroop能力。"
+    },
+    {
+      "page_id": 5,
+      "title": "漏看一次，不代表眼睛壞了",
+      "result": "pass",
+      "term": "非注意盲視為已引入名詞，此處無新增英文術語。",
+      "plain_language": "當時沒有察覺，不能直接變成眼睛或能力的診斷。",
+      "life_example": "車站漏看揮手，不足以判定對方不認真。",
+      "one_sentence_core": "解釋漏看要先看任務與是否已知事件。",
+      "visible_storyline": "選擇段收束；結尾明示下一段轉向分配。",
+      "independent_comprehension_question": "先告知意外人物後再看影片，為何不能和第一次未預期觀看直接相比？",
+      "independent_comprehension_answer": "預知事件或重看會改變觀察策略，因此不是相同的首次體驗條件。",
+      "layout_adjacency": {
+        "layout": "misconception",
+        "previous": "study-sequence",
+        "next": "dual-timeline",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "兩組誤解對照＋生活應用，主次清楚。",
+      "multitasking_and_stroop_connection": "將選擇段轉向多件工作安排，未混入處理干擾結論。"
+    },
+    {
+      "page_id": 6,
+      "title": "同時做，和來回做，是兩種不同安排",
+      "result": "pass",
+      "term": "多工 multitasking；分散注意力 divided attention；雙重任務 dual task；任務切換 task switching 首次附英文。",
+      "plain_language": "同一段時間進行兩件工作，和依次改變任務目標，是兩種安排。",
+      "life_example": "邊讀邊聽對比讀書→回訊息→再閱讀。",
+      "one_sentence_core": "先區分同時與切換，再選擇各自合理的比較基準。",
+      "visible_storyline": "分配段入口；同時／切換→各自基準→下頁研究。",
+      "independent_comprehension_question": "邊聽邊讀時閱讀成績相同，就能說兩項工作都沒有代價嗎？",
+      "independent_comprehension_answer": "不能；還要以單獨聽的表現比較聆聽結果，不能只檢查閱讀。",
+      "layout_adjacency": {
+        "layout": "dual-timeline",
+        "previous": "misconception",
+        "next": "research-story",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "四個內容塊與四個術語使本頁相對密；兩時間軸配各自基準可支持層級，需由樣張驗證可讀性。",
+      "multitasking_and_stroop_connection": "建立多工的分類；尚不把Stroop視為另一種同時多工。"
+    },
+    {
+      "page_id": 7,
+      "title": "換一件事，其實也要付出時間？",
+      "result": "pass",
+      "term": "切換成本 switch cost 首次附英文。",
+      "plain_language": "接上另一套任務目標與規則可能額外費時。",
+      "life_example": "讀段落改回訊息，目標與處理要求改變，標成教學情境。",
+      "one_sentence_core": "切換成本要相對重複／持續任務來看，受複雜度與熟悉度影響。",
+      "visible_storyline": "分配段由比較基準進到具名研究，再預測活動。",
+      "independent_comprehension_question": "提前知道何時要換任務，是否保證切換成本為零？",
+      "independent_comprehension_answer": "不保證；研究綜整指出準備可減少但未必消除代價。",
+      "layout_adjacency": {
+        "layout": "research-story",
+        "previous": "dual-timeline",
+        "next": "interactive-switch",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "定義→研究問題→方法→結果→生活例子，資訊較多但順序能獨立閱讀。",
+      "multitasking_and_stroop_connection": "多工研究以規則調整為問題；後續Stroop另談處理干擾。"
+    },
+    {
+      "page_id": 8,
+      "title": "換規則時，你會慢下來嗎？",
+      "result": "pass",
+      "term": "N/A：操作頁沿用任務切換概念，未新增核心心理術語；奇偶與大小規則有定義。",
+      "plain_language": "同樣的兩種判斷，改變連續分段或逐題交替的排法。",
+      "life_example": "N/A：本頁是數字操作體驗；生活映射已在正文6–7，正文9接回。",
+      "one_sentence_core": "盡量匹配任務種類、題數與操作方式，觀察兩種規則安排。",
+      "visible_storyline": "分配段的研究→練習→兩輪比較→解讀；樣張結果內展的要求有記載。",
+      "independent_comprehension_question": "如果數字是7，改變規則後正確答案會怎樣變？",
+      "independent_comprehension_answer": "奇偶規則答奇數，大小規則答大於5；答案取決於目前規則。",
+      "layout_adjacency": {
+        "layout": "interactive-switch",
+        "previous": "research-story",
+        "next": "results-comparison",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "先規則與範例、再練習與輪次，操作說明足夠；製作安排句屬後續可清理的閱讀雜訊。",
+      "multitasking_and_stroop_connection": "此活動比較規則安排；不是直接測同時執行兩項工作，也未宣稱它是Stroop。"
+    },
+    {
+      "page_id": 9,
+      "title": "比較快慢之前，先看兩輪做得如何",
+      "result": "pass",
+      "term": "沿用多工與切換概念；無新增核心名詞。",
+      "plain_language": "先確認完成與作答品質，再把時間差讀成這一輪的差異。",
+      "life_example": "熟悉某個日常組合，不代表讀新教材加回訊息也無代價。",
+      "one_sentence_core": "一次活動不足以診斷能力或推翻一般研究。",
+      "visible_storyline": "分配段收束，結尾明示轉向選定目標後仍有的處理干擾。",
+      "independent_comprehension_question": "兩輪完成且結果可比較，但交替較快，應如何回饋？",
+      "independent_comprehension_answer": "如實說本輪交替較快；可能受練習、順序或操作影響，不能貼能力標籤或宣稱推翻研究。",
+      "layout_adjacency": {
+        "layout": "results-comparison",
+        "previous": "interactive-switch",
+        "next": "origin-demonstration",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "主結論先行，再分未完成／未變慢／熟練例外；門檻細節預留摺疊。",
+      "multitasking_and_stroop_connection": "明確從工作安排轉向無關資訊是否仍干擾，銜接Stroop有因果問題。"
+    },
+    {
+      "page_id": 10,
+      "title": "只想看墨色，為什麼字義也來干擾？",
+      "result": "pass",
+      "term": "自動化加工 automatic processing 與 Stroop效應 Stroop effect 首次附英文。",
+      "plain_language": "熟練處理容易啟動，無關字義可能競爭；不等於任何字都必然完整讀懂。",
+      "life_example": "看熟悉文字時可能順勢讀出意思，明示教學情境。",
+      "one_sentence_core": "選墨色作目標仍可能受字義干擾，原始研究與短按鍵體驗的基準不同。",
+      "visible_storyline": "處理段入口，起源→方法→結果→接回選擇與分配。",
+      "independent_comprehension_question": "原始研究與本課活動的差值，為何不能直接當成同一種量？",
+      "independent_comprehension_answer": "原始研究用口語整張計時並以色塊為基準，本活動逐題按鍵並比較一致／不一致色字，操作與比較基準不同。",
+      "layout_adjacency": {
+        "layout": "origin-demonstration",
+        "previous": "results-comparison",
+        "next": "interactive-stroop",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "兩概念加研究故事較密，但背景／方法／結果／銜接分層完整。",
+      "multitasking_and_stroop_connection": "直接說明處理干擾與選擇的關係，也說明它不是直接測同時做幾件事。"
+    },
+    {
+      "page_id": 11,
+      "title": "這次請回答顏色，不要讀字",
+      "result": "pass",
+      "term": "一致／不一致是活動條件，已以字義與墨色相同／不同定義；無新增核心心理術語。",
+      "plain_language": "回答墨色而非字義，例子先示範正確答案。",
+      "life_example": "熟悉字詞的意思容易被帶出，活動不直接推估日常多工。",
+      "one_sentence_core": "在明確目標下體驗無關字義是否干擾作答。",
+      "visible_storyline": "處理段從原始研究到實作，再到下一頁結果解讀。",
+      "independent_comprehension_question": "綠色顯示「紅」字時應選哪個答案，屬哪一條件？",
+      "independent_comprehension_answer": "回答綠；字義與墨色不同，屬不一致。",
+      "layout_adjacency": {
+        "layout": "interactive-stroop",
+        "previous": "origin-demonstration",
+        "next": "reading-results",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "範例→練習→正式題與可跳過→生活連結，層級清楚。",
+      "multitasking_and_stroop_connection": "生活連結與多工推論界線皆明說，避免把兩遊戲視作相同能力測量。"
+    },
+    {
+      "page_id": 12,
+      "title": "一個差值，能告訴你什麼？",
+      "result": "pass",
+      "term": "沿用Stroop；差值是操作指標，已交代公式與方向。",
+      "plain_language": "不一致平均時間減一致平均時間，只描述這一次的條件比較。",
+      "life_example": "這輪差值大，不能預測明天讀書一定較差。",
+      "one_sentence_core": "先驗證資料充分，再讀差值方向與能回答的範圍。",
+      "visible_storyline": "處理段收束，末句把資訊選擇、規則調整與處理干擾接回任務條件。",
+      "independent_comprehension_question": "若一致平均700毫秒、不一致650毫秒，差值與合理解釋是什麼？",
+      "independent_comprehension_answer": "差值為−50毫秒，本輪不一致平均較快；不能據此診斷能力或推估日常多工。",
+      "layout_adjacency": {
+        "layout": "reading-results",
+        "previous": "interactive-stroop",
+        "next": "integration-map",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "公式先行，資料／解釋／共同限制分開，閱讀順序合理；細節摺疊有規劃。",
+      "multitasking_and_stroop_connection": "兩活動共同限制與各自機制並列，沒有把Stroop差值當切換成本。"
+    },
+    {
+      "page_id": 13,
+      "title": "選擇、分配、處理，其實問的是同一段生活",
+      "result": "pass",
+      "term": "三個視角為已教概念，無新核心術語。",
+      "plain_language": "優先處理什麼、怎樣安排任務、哪些訊息影響反應。",
+      "life_example": "閱讀、回訊息、熟悉文字作連接情境；不聲稱三現象一定同時發生。",
+      "one_sentence_core": "選擇、分配與處理能對同一生活情境提出不同問題。",
+      "visible_storyline": "回到生活段入口，整合圖與明示非固定流水線。",
+      "independent_comprehension_question": "把手機放旁邊並決定只讀書，能否保證所有無關訊息都無法影響反應？",
+      "independent_comprehension_answer": "不能；選定目標不保證無關資訊完全排除，這是處理視角補充的問題。",
+      "layout_adjacency": {
+        "layout": "integration-map",
+        "previous": "reading-results",
+        "next": "application-cases",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "三平行分支與一段總接，回顧層級清楚。",
+      "multitasking_and_stroop_connection": "以Stroop補上選定目標後如何反應的問題，多工仍放在工作安排視角。"
+    },
+    {
+      "page_id": 14,
+      "title": "把注意力原理變成讀書與駕駛的選擇",
+      "result": "pass",
+      "term": "N/A：生活應用與回顧頁，未新增需完整定義的核心心理術語。",
+      "plain_language": "先辨認目標、競爭資訊與安排，再嘗試有條件的做法。",
+      "life_example": "集中處理非緊急訊息；免持通話不保證駕駛注意力全保留。",
+      "one_sentence_core": "用任務條件與比較依據提出生活選擇，不保證固定改善。",
+      "visible_storyline": "回到生活段以讀書／駕駛與三問示範收束。",
+      "independent_comprehension_question": "想評估集中回訊息是否對自己有幫助，不能只看什麼，還應看什麼？",
+      "independent_comprehension_answer": "不能只看主觀忙碌或只完成一件事；可觀察兩件事都完成後的總時間與品質，且不承諾固定效果。",
+      "layout_adjacency": {
+        "layout": "application-cases",
+        "previous": "integration-map",
+        "next": "references",
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "兩生活案例＋三問示範＋自行應用，讀者不需講者才能開始練習。",
+      "multitasking_and_stroop_connection": "切換原理落到讀書；三問回顧保留比較方法，沒有以Stroop推估個人駕駛風險。"
+    },
+    {
+      "page_id": 15,
+      "title": "資料來源：每個說法都能回頭查",
+      "result": "pass",
+      "term": "N/A：來源頁不引入核心心理術語。",
+      "plain_language": "原始研究與教材轉述的取得層級分開標明。",
+      "life_example": "N/A：來源查證頁，生活例子不適用。",
+      "one_sentence_core": "來源可查且應區分實際閱讀層級。",
+      "visible_storyline": "全程回顧，編號對應前文，完整書目支持追查。",
+      "independent_comprehension_question": "若要追查2001年切換實驗，這份簡報聲稱讀過其原始論文嗎？",
+      "independent_comprehension_answer": "沒有；本稿依APA二手解說，來源[4]明示此取得層級。",
+      "layout_adjacency": {
+        "layout": "references",
+        "previous": "application-cases",
+        "next": null,
+        "pass": true,
+        "scope": "稿件版型規劃；未檢查渲染UI"
+      },
+      "density_and_hierarchy": "七筆完整書目較長，適合作為參考頁而非正文逐句閱讀；實際字級與捲動尚未檢查。",
+      "multitasking_and_stroop_connection": "多工與Stroop分別有對應來源與原始／改編方法差別。"
+    }
+  ],
+  "issues": [],
+  "optional_improvements": [
+    {
+      "id": "OPT-01",
+      "pages": [
+        6,
+        10
+      ],
+      "suggestion": "樣張／後續排版時保留單一主張、對應比較與研究步驟的視覺層級；勿把所有說明等大小並列。",
+      "reason": "兩頁術語與研究資訊較密，但文字結構已有足夠分層，本稿尚無必須刪改的教學阻礙。"
+    },
+    {
+      "id": "OPT-02",
+      "pages": [
+        8
+      ],
+      "suggestion": "正式閱讀版可把「兩頁樣張…完整簡報…正文9」放在製作註記，活動頁只顯示當前可用的結果入口。",
+      "reason": "這句混入製作狀態，屬小幅閱讀雜訊；規則、操作與解讀仍清楚，不作阻擋問題。"
+    },
+    {
+      "id": "OPT-03",
+      "pages": [
+        15
+      ],
+      "suggestion": "實際來源UI採可讀字級與捲動／展開，不必將七筆完整書目硬縮成一屏。",
+      "reason": "來源頁允許高資訊密度；這是待UI驗證事項，不能據稿件宣稱實際可讀性已通過。"
+    }
+  ]
+}

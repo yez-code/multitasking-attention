@@ -1,0 +1,360 @@
+{
+  "result": "pass",
+  "reviewer_id": "v3_feedback01_fidelity",
+  "context_mode": "fork_turns=none",
+  "input_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+  "timestamp": "2026-11-19T07:10:19.091378+00:00",
+  "scope": {
+    "role": "獨立Wiki忠實度審查",
+    "packet": "/workspace/attention-wiki/review-packets/v3-feedback01/",
+    "read_only_inputs": [
+      "requirements.txt",
+      "manifest.json",
+      "manuscript.json",
+      "manuscript.md",
+      "outline.json",
+      "wiki/*.md"
+    ],
+    "reviewed": "全16頁（正文1–14）與result_feedback兩活動共8分支，研究/活動差異、推論標示、結果方向、可能因素邊界、引用及數據。",
+    "excluded": [
+      "其他專案檔案",
+      "對話內容或舊審查與自評",
+      "外部網頁",
+      "UI、瀏覽器畫面及執行行為"
+    ],
+    "ui_verified": false,
+    "manuscript_modified": false
+  },
+  "manifest_verification": {
+    "all_match": true,
+    "file_count": 18,
+    "input_sha256_matches_manifest": true,
+    "outline_binding_matches": true,
+    "files": [
+      {
+        "file": "manuscript.md",
+        "expected_sha256": "c6218709d5520cb163a271296754529a7214c5f8ca7803318b618a2fa4fa1319",
+        "actual_sha256": "c6218709d5520cb163a271296754529a7214c5f8ca7803318b618a2fa4fa1319",
+        "match": true
+      },
+      {
+        "file": "requirements.txt",
+        "expected_sha256": "304384ccdbc3358312284c7ecaeb949b0cff1b849d22b0395d5bc3a99e005d09",
+        "actual_sha256": "304384ccdbc3358312284c7ecaeb949b0cff1b849d22b0395d5bc3a99e005d09",
+        "match": true
+      },
+      {
+        "file": "outline.json",
+        "expected_sha256": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+        "actual_sha256": "57be551a08e1f6b37106bd58b862864697ef445d6c6560958ae648c07dff97ea",
+        "match": true
+      },
+      {
+        "file": "manuscript.json",
+        "expected_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+        "actual_sha256": "f6d29830547b0c01a8a99dae56370dd0079268b60f7acf3357c896c97eb4f741",
+        "match": true
+      },
+      {
+        "file": "wiki/glossary.md",
+        "expected_sha256": "81f490253b09105317e0d2f37a89a5976911d5bebd91b4fc222ed201ae433119",
+        "actual_sha256": "81f490253b09105317e0d2f37a89a5976911d5bebd91b4fc222ed201ae433119",
+        "match": true
+      },
+      {
+        "file": "wiki/06-research-origins.md",
+        "expected_sha256": "1274454a57857fe5b5b87f38a4960ed60d5f7e479711e279bde5e6a2d30cc59a",
+        "actual_sha256": "1274454a57857fe5b5b87f38a4960ed60d5f7e479711e279bde5e6a2d30cc59a",
+        "match": true
+      },
+      {
+        "file": "wiki/sources.md",
+        "expected_sha256": "53d8d403a17cdcc91e37b47cccb39836fa6a6e27ad5319cf8620a243f95b8f4f",
+        "actual_sha256": "53d8d403a17cdcc91e37b47cccb39836fa6a6e27ad5319cf8620a243f95b8f4f",
+        "match": true
+      },
+      {
+        "file": "wiki/processing.md",
+        "expected_sha256": "43e12e73a0235f4f440394f02e957f5f784d87b1703e463bdcf8202aa0c35f14",
+        "actual_sha256": "43e12e73a0235f4f440394f02e957f5f784d87b1703e463bdcf8202aa0c35f14",
+        "match": true
+      },
+      {
+        "file": "wiki/03-multitasking.md",
+        "expected_sha256": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+        "actual_sha256": "aff2a26da22f27056dad6caa2cd23d0f5dde6bfb69293052c45e5e54b05e4e21",
+        "match": true
+      },
+      {
+        "file": "wiki/05-applications.md",
+        "expected_sha256": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+        "actual_sha256": "e35983c7606c57da44138c3d72eaa5c3d8179239d88d3e193ee820def9a5fd6f",
+        "match": true
+      },
+      {
+        "file": "wiki/07-related-experiments.md",
+        "expected_sha256": "9dfa8d4c117301caccf4357d095c00e1642b786847579298ecfac45ff17998bc",
+        "actual_sha256": "9dfa8d4c117301caccf4357d095c00e1642b786847579298ecfac45ff17998bc",
+        "match": true
+      },
+      {
+        "file": "wiki/index.md",
+        "expected_sha256": "ec6c92ecedaf8684b35f87d92e12298728e3188dc984ffde5df13e391cf94cad",
+        "actual_sha256": "ec6c92ecedaf8684b35f87d92e12298728e3188dc984ffde5df13e391cf94cad",
+        "match": true
+      },
+      {
+        "file": "wiki/04-stroop.md",
+        "expected_sha256": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+        "actual_sha256": "6e3c52298aff0dcd0f10847fd8e673e5b4a70c03e940abfbf880dc9b102f3f78",
+        "match": true
+      },
+      {
+        "file": "wiki/claims.md",
+        "expected_sha256": "bd14cd12624720b5ca2d7baa543ed809170680fc61027920aecebed9a79718f9",
+        "actual_sha256": "bd14cd12624720b5ca2d7baa543ed809170680fc61027920aecebed9a79718f9",
+        "match": true
+      },
+      {
+        "file": "wiki/uncertainties.md",
+        "expected_sha256": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc",
+        "actual_sha256": "f67a774fa34c96e6415d987dd6ab3778c1a2d0a626d79059ee6ba7bd91cb81dc",
+        "match": true
+      },
+      {
+        "file": "wiki/teaching-design.md",
+        "expected_sha256": "bf4dd3c8d456930864ab157b5b9388c51dd293af6512e92b6e4eb47f851b703f",
+        "actual_sha256": "bf4dd3c8d456930864ab157b5b9388c51dd293af6512e92b6e4eb47f851b703f",
+        "match": true
+      },
+      {
+        "file": "wiki/02-selection.md",
+        "expected_sha256": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+        "actual_sha256": "587c2edbde14d83b5ffa0f1369d5fe1ef4bd7e08222b364bd2a4b0a6bdf94a21",
+        "match": true
+      },
+      {
+        "file": "wiki/01-basics.md",
+        "expected_sha256": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8",
+        "actual_sha256": "d849b18f24d3709e6100219f7446bbdb88b75894aaf26bc23d82af43eec78ac8",
+        "match": true
+      }
+    ]
+  },
+  "issues": [],
+  "conclusion": "指定範圍未發現阻擋忠實度問題。研究發現與活動推論有區隔，動態訊息須連同正文9/12理解；本結論僅適用封包文字與活動規格，不代表實際分支觸發或介面已驗證。",
+  "page_table": [
+    {
+      "page_id": 0,
+      "title": "封面：你以為自己注意到了多少？",
+      "result": "pass",
+      "wiki_basis": "wiki/index.md；wiki/processing.md",
+      "assessment": "四站路線及三種問題屬課程組織，未包裝成腦機制或研究數據。",
+      "citations_and_numbers": "無研究數字；封面無引用符合大綱。"
+    },
+    {
+      "page_id": 1,
+      "title": "你真的看到眼前的一切嗎？",
+      "result": "pass",
+      "wiki_basis": "wiki/02-selection.md；claims K02/K05",
+      "assessment": "車站例子明示教學情境；沒有假稱完成盲測或評定能力。",
+      "citations_and_numbers": "[5]支持現象；生活情境不是原研究材料。"
+    },
+    {
+      "page_id": 2,
+      "title": "注意力，是把有限處理能力用在哪裡？",
+      "result": "pass",
+      "wiki_basis": "wiki/01-basics.md；wiki/processing.md；claims K01",
+      "assessment": "有限能力未換成固定秒數；桌子標為類比，三段明示非固定順序。",
+      "citations_and_numbers": "[1]支持有限能力；三視角為Wiki教學整理。"
+    },
+    {
+      "page_id": 3,
+      "title": "吵雜餐廳裡，你為何仍能跟著同學說話？",
+      "result": "pass",
+      "wiki_basis": "wiki/07-related-experiments.md；claims K02/K03/K04",
+      "assessment": "雙耳分聽方法、可報告內容與限制相符；保留雞尾酒會線索的非必然性。",
+      "citations_and_numbers": "Cherry 1953及Moray 1959依Noba轉述；未宣稱已另讀原始論文。"
+    },
+    {
+      "page_id": 4,
+      "title": "數對傳球，為什麼仍可能漏看意外人物？",
+      "result": "pass",
+      "wiki_basis": "wiki/06-research-origins.md 非注意盲視；claims K05",
+      "assessment": "研究起源、指定隊伍計數、任務後詢問與可見不等於察覺均忠實；限制明確。",
+      "citations_and_numbers": "[5]：192人、16條件、46%相符；大猩猩及撐傘者跨條件，未寫成通用機率。"
+    },
+    {
+      "page_id": 5,
+      "title": "漏看一次，不代表眼睛壞了",
+      "result": "pass",
+      "wiki_basis": "wiki/02-selection.md；wiki/uncertainties.md U04/U07；claims K06",
+      "assessment": "不診斷視力或能力，重看/已知事件改變首次體驗的界線正確。",
+      "citations_and_numbers": "[2][5]對應預期與研究程序，未新增臨床機制。"
+    },
+    {
+      "page_id": 6,
+      "title": "同時做，和來回做，是兩種不同安排",
+      "result": "pass",
+      "wiki_basis": "wiki/03-multitasking.md；wiki/glossary.md；claims K07/K08",
+      "assessment": "同時雙任務與交替切換分開；雙任務每項均須有單獨作業基準。",
+      "citations_and_numbers": "[1][4]適切；時間軸明示不是數據。"
+    },
+    {
+      "page_id": 7,
+      "title": "換一件事，其實也要付出時間？",
+      "result": "pass",
+      "wiki_basis": "wiki/06-research-origins.md 任務切換；claims K09",
+      "assessment": "研究者、2001四實驗、年輕成人、數學/幾何任務和質性結果相符；保留準備與條件限制。",
+      "citations_and_numbers": "[4]明示APA二手綜整，無補寫未匯入的樣本量/效應量。"
+    },
+    {
+      "page_id": 8,
+      "title": "換規則時，你會慢下來嗎？",
+      "result": "pass",
+      "wiki_basis": "wiki/teaching-design.md 任務切換體驗；wiki/03-multitasking.md",
+      "assessment": "奇偶/大小兩任務，分段對交替，保持種類與題數相近；明示教學改編。",
+      "citations_and_numbers": "6練習、每輪12、隨機先後及F/J為活動參數；未聲稱研究常模。"
+    },
+    {
+      "page_id": 9,
+      "title": "比較快慢之前，先看兩輪做得如何",
+      "result": "pass",
+      "wiki_basis": "wiki/06-research-origins.md 任務切換；wiki/03-multitasking.md；wiki/teaching-design.md",
+      "assessment": "以「本活動因此預期」從切換規則原理推到交替輪可能較慢；明確非同時雙任務、非單題純成本。練習/先後/熟悉度/操作僅列可能因素，資料不適合時不判方向。",
+      "citations_and_numbers": "[1][4]適切；Rubinstein與Rogers/Monsell均保留APA轉述；未虛構效應量。"
+    },
+    {
+      "page_id": 10,
+      "title": "只想看墨色，為什麼字義也來干擾？",
+      "result": "pass",
+      "wiki_basis": "wiki/06-research-origins.md Stroop；wiki/processing.md；claims K10/K11",
+      "assessment": "1935起源、口語整張計時、衝突色字對色塊忠實；字義競爭標為簡化解釋，非唯一機制。",
+      "citations_and_numbers": "[3][6][7]對應調節、原研究與全名；原始色塊與活動一致色字基準已區分。"
+    },
+    {
+      "page_id": 11,
+      "title": "這次請回答顏色，不要讀字",
+      "result": "pass",
+      "wiki_basis": "wiki/04-stroop.md；wiki/teaching-design.md Stroop體驗",
+      "assessment": "目標墨色、一致/不一致定義正確；中文逐題按鍵屬改編，沒有宣稱重現原始口語材料。",
+      "citations_and_numbers": "[6][7]適切；4練習、24正式、各12及5秒為活動參數。不上傳等執行敘述未驗證。"
+    },
+    {
+      "page_id": 12,
+      "title": "一個差值，能告訴你什麼？",
+      "result": "pass",
+      "wiki_basis": "wiki/04-stroop.md；wiki/06-research-origins.md Stroop；wiki/processing.md；wiki/teaching-design.md；uncertainties U05/U06",
+      "assessment": "明示不一致較慢是「原理推論」，不虛構原始一致色字比較；正/零/負只描述本輪方向，不證明/推翻理論。可能因素不確診；未完成/不足不解讀。",
+      "citations_and_numbers": "[6][7]與原始/按鍵方法對應；正確非逾時RT平均定義見activities。少題下個別作答影響平均屬算術教學推論，沒有冒稱新研究發現。"
+    },
+    {
+      "page_id": 13,
+      "title": "選擇、分配、處理，其實問的是同一段生活",
+      "result": "pass",
+      "wiki_basis": "wiki/processing.md；wiki/05-applications.md",
+      "assessment": "三視角非固定流水線；墨色干擾與生活場景標為教學整合，未假稱同時測到三現象。",
+      "citations_and_numbers": "[1][4][6]與所整理概念相符。"
+    },
+    {
+      "page_id": 14,
+      "title": "把注意力原理變成讀書與駕駛的選擇",
+      "result": "pass",
+      "wiki_basis": "wiki/05-applications.md；wiki/07-related-experiments.md；claims K13/K14",
+      "assessment": "讀書建議是可嘗試應用，不保證固定幅度；駕駛保留手持/免持認知分心及不能推估個人事故率。",
+      "citations_and_numbers": "Strayer與Johnston 2001依[1]教材轉述；[4]支持切換應用，未聲稱另讀原始駕駛論文。"
+    },
+    {
+      "page_id": 15,
+      "title": "資料來源：每個說法都能回頭查",
+      "result": "pass",
+      "wiki_basis": "wiki/sources.md",
+      "assessment": "七項完整來源與取得層級逐項相符；Noba改寫署名及授權未泛化至全部來源。",
+      "citations_and_numbers": "作者、年份、DOI、URL與Wiki相符；未查外部網頁，連結有效性/離線能力不在本審查範圍。"
+    }
+  ],
+  "dynamic_branch_table": [
+    {
+      "activity": "switch",
+      "branch": "positive",
+      "result": "pass",
+      "text": "這次交替輪較慢，方向與切換需調整目標與規則的預期一致。這不是研究中單一切換題的純成本，也沒有測出「同時做」是否更快。",
+      "assessment": "正差指交替輪較慢；僅稱方向一致，明示非單題純成本且未測同時作業。",
+      "wiki_basis": "wiki/03-multitasking.md；wiki/06-research-origins.md 任務切換；wiki/teaching-design.md 任務切換體驗",
+      "context_page": 9
+    },
+    {
+      "activity": "switch",
+      "branch": "zero",
+      "result": "pass",
+      "text": "這次兩輪時間相同，未呈現交替輪較慢的預期方向。一次相同不表示切換沒有成本；請連同練習、順序、規則熟悉度與操作情況理解。",
+      "assessment": "零差指兩輪相同；僅稱當次未見預期，未否定一般成本。練習、順序、熟悉度及操作為待檢查因素；頁9明示不能由差值判因。",
+      "wiki_basis": "wiki/03-multitasking.md；wiki/06-research-origins.md 任務切換；wiki/teaching-design.md 任務切換體驗",
+      "context_page": 9
+    },
+    {
+      "activity": "switch",
+      "branch": "negative",
+      "result": "pass",
+      "text": "這次交替輪較快，方向與交替輪較慢的預期不同。練習、順序、規則熟悉度與操作都可能影響；本活動無法判定是哪個原因，也不能因此推翻研究或認定你多工更好。",
+      "assessment": "負差指交替較快；未推翻研究或評定多工能力；可能因素未確診。",
+      "wiki_basis": "wiki/03-multitasking.md；wiki/06-research-origins.md 任務切換；wiki/teaching-design.md 任務切換體驗",
+      "context_page": 9
+    },
+    {
+      "activity": "switch",
+      "branch": "insufficient",
+      "result": "pass",
+      "text": "這次先不比較快慢：兩輪未完整完成，或逾時／正確情況不適合比較，因此也不判定是否符合研究預期。仍可閱讀下方的研究發現與原理解釋。",
+      "assessment": "未完整、逾時或正確情況不適合時，不比較且不判研究方向；只提供概念閱讀。",
+      "wiki_basis": "wiki/03-multitasking.md；wiki/06-research-origins.md 任務切換；wiki/teaching-design.md 任務切換體驗",
+      "context_page": 9
+    },
+    {
+      "activity": "stroop",
+      "branch": "positive",
+      "result": "pass",
+      "text": "這次不一致條件較慢，方向與字義干擾墨色作答的預期一致。它支持理解這個現象，但一次按鍵結果不能證明機制；原研究用色塊作基準，數值也不能直接相比。",
+      "assessment": "正差指不一致較慢；僅稱方向一致，明示單次不能證明機制、原研究色塊數值不可直接相比。頁12交代預期為原理推論。",
+      "wiki_basis": "wiki/04-stroop.md；wiki/06-research-origins.md Stroop；wiki/processing.md；wiki/teaching-design.md Stroop體驗；wiki/uncertainties.md U05/U06",
+      "context_page": 12
+    },
+    {
+      "activity": "stroop",
+      "branch": "zero",
+      "result": "pass",
+      "text": "這次兩條件平均相同，未呈現不一致較慢的預期方向。一次相同不代表沒有字義干擾；先看練習、題目先後、按鍵操作，以及錯誤與逾時。",
+      "assessment": "零差指兩條件平均相同；未聲稱已證明無干擾；先查練習、先後、操作及錯漏，頁12補足不可確診的界線。",
+      "wiki_basis": "wiki/04-stroop.md；wiki/06-research-origins.md Stroop；wiki/processing.md；wiki/teaching-design.md Stroop體驗；wiki/uncertainties.md U05/U06",
+      "context_page": 12
+    },
+    {
+      "activity": "stroop",
+      "branch": "negative",
+      "result": "pass",
+      "text": "這次不一致條件較快，方向與字義干擾的預期不同。練習、題目先後、按鍵操作與少量作答都可能影響平均；無法由差值判定原因，也不表示你沒有干擾或注意力更好。",
+      "assessment": "負差指不一致較快；未將單次方向解成無干擾或較好能力；明示不能由差值判因。少量作答影響平均是教學推論。",
+      "wiki_basis": "wiki/04-stroop.md；wiki/06-research-origins.md Stroop；wiki/processing.md；wiki/teaching-design.md Stroop體驗；wiki/uncertainties.md U05/U06",
+      "context_page": 12
+    },
+    {
+      "activity": "stroop",
+      "branch": "insufficient",
+      "result": "pass",
+      "text": "這次資料不足，先不解讀差值，也不判定是否符合預期。請先看錯誤及逾時；即使跳過，仍可閱讀下方的原研究與干擾原理解釋。",
+      "assessment": "資料不足不解讀差值，不判預期方向；引導先看錯誤逾時與概念，沒有預填數字。",
+      "wiki_basis": "wiki/04-stroop.md；wiki/06-research-origins.md Stroop；wiki/processing.md；wiki/teaching-design.md Stroop體驗；wiki/uncertainties.md U05/U06",
+      "context_page": 12
+    }
+  ],
+  "cross_checks": {
+    "manuscript_json_visible_text_present_in_markdown": true,
+    "eight_feedback_strings_present_in_markdown": true,
+    "body_pages": 14,
+    "cover_and_sources_excluded_from_body_count": true,
+    "activity_thresholds": "activities.switch eligible（兩輪完成12、無逾時、同正確數且至少10）及activities.stroop每條件至少6正確均視為活動設計參數，不是研究常模；未驗證程式是否依規格實作。",
+    "switch_metric": "逐題等待時間總和，排除說明與間隔；文字已明示兩輪差非純切換題成本。",
+    "stroop_metric": "不一致正確且未逾時RT平均減一致正確且未逾時RT平均；未以錯誤反應納入平均，錯漏另列。",
+    "causal_boundary": "可用練習、順序、熟悉度與操作等Wiki因素提出待查解釋，不由差值診斷個人。Stroop少題平均的說法視為教學算術推論，不視為已實測因素。"
+  }
+}

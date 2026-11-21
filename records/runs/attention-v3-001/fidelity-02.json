@@ -1,0 +1,325 @@
+{
+  "result": "pass",
+  "reviewer_id": "v3_fidelity_retest",
+  "context_mode": "fork_turns=none",
+  "input_sha256": "0faead13663b4c2b290fabedbad9fcf249941f732a908df89844e5419a386e96",
+  "timestamp": "2026-11-19T06:02:57.563896+00:00",
+  "review_scope": {
+    "files_read": "Only requirements.txt, outline.json, manuscript.json, manuscript.md, manifest.json and wiki/ within review-packets/v3-manuscript-02",
+    "web_used": false,
+    "content_edited": false,
+    "review_type": "Independent Wiki fidelity, citation, number and outline review; no external source re-verification"
+  },
+  "global_checks": {
+    "packet_manifest": "pass: all listed input digests match",
+    "approved_outline": "pass: all original per-page outline fields match exactly",
+    "page_count": "pass: 14 body pages plus cover and sources = 16",
+    "storyline": "pass: 選擇 → 分配 → 處理 → 回到生活",
+    "layouts": "pass: 16 distinct layout labels; no equal adjacent labels",
+    "manuscript_formats": "pass: prose content and source lists agree between JSON and Markdown",
+    "teaching_vs_empirical": "pass: empirical numbers have matching Wiki support; activity counts/timeouts/eligibility are project teaching choices, not research norms",
+    "activity_limits": "pass: both activities include practice, skipping, result interpretation and insufficient-data safeguards in manuscript/activity specification; no fabricated outcomes"
+  },
+  "per_page_checks": [
+    {
+      "page_id": 0,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/index.md"
+      ],
+      "reference_ids": [],
+      "evidence": "課程目的與四站主線符合Wiki；無研究數字或測驗結論。"
+    },
+    {
+      "page_id": 1,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/02-selection.md"
+      ],
+      "reference_ids": [
+        5
+      ],
+      "evidence": "車站漏看情境明示教學例子；預測不計能力分數。"
+    },
+    {
+      "page_id": 2,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/01-basics.md",
+        "wiki/processing.md"
+      ],
+      "reference_ids": [
+        1
+      ],
+      "evidence": "有限處理能力、書桌類比及三問題組織有Wiki支持；明示並非固定腦內順序。"
+    },
+    {
+      "page_id": 3,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/01-basics.md",
+        "wiki/07-related-experiments.md",
+        "wiki/glossary.md"
+      ],
+      "reference_ids": [
+        1
+      ],
+      "evidence": "Cherry 1953、Moray 1959與雙耳分聽程序符合Wiki；保留Noba二手轉述及未注意訊息不等於完全未加工的限制。"
+    },
+    {
+      "page_id": 4,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/06-research-origins.md",
+        "wiki/02-selection.md"
+      ],
+      "reference_ids": [
+        5
+      ],
+      "evidence": "Simons、Chabris、1999、192人、16條件、46%均符合Wiki；比例明確涵蓋意外事件跨條件，未泛化為固定大猩猩漏看率。"
+    },
+    {
+      "page_id": 5,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/02-selection.md",
+        "wiki/uncertainties.md",
+        "wiki/05-applications.md"
+      ],
+      "reference_ids": [
+        2,
+        5
+      ],
+      "evidence": "非注意盲視、已知事件／重看限制及非診斷立場有Wiki支持；無臨床機制延伸。"
+    },
+    {
+      "page_id": 6,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/03-multitasking.md",
+        "wiki/glossary.md",
+        "wiki/claims.md"
+      ],
+      "reference_ids": [
+        1,
+        4
+      ],
+      "evidence": "同時進行與切換區分、各任務單獨基準及研究切換／重複基準符合Wiki；時間軸明示非研究數據。"
+    },
+    {
+      "page_id": 7,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/06-research-origins.md",
+        "wiki/03-multitasking.md"
+      ],
+      "reference_ids": [
+        4
+      ],
+      "evidence": "Rubinstein、Evans、Meyer、2001、四實驗及年輕成人數學／幾何任務符合Wiki；準備與熟悉度結果明示APA二手綜整，未杜撰效應量。"
+    },
+    {
+      "page_id": 8,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/teaching-design.md",
+        "wiki/03-multitasking.md"
+      ],
+      "reference_ids": [
+        4
+      ],
+      "evidence": "奇偶／大小、分段／交替比較有Wiki支持；6題練習、每輪12題、隨機順序及操作條件均作活動設計呈現，未冒充原研究；可跳過與重來，樣張結果在活動內展開符合requirements例外。"
+    },
+    {
+      "page_id": 9,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/03-multitasking.md",
+        "wiki/teaching-design.md"
+      ],
+      "reference_ids": [
+        1,
+        4
+      ],
+      "evidence": "結果只描述當次；未完成不預填、錯漏影響時不比快慢、無預期方向照實呈現，與熟練條件限制一致。"
+    },
+    {
+      "page_id": 10,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/06-research-origins.md",
+        "wiki/processing.md"
+      ],
+      "reference_ids": [
+        3,
+        6,
+        7
+      ],
+      "evidence": "John Ridley Stroop、1935、口語整張材料、衝突墨色相對色塊均吻合；自動化定義保守，字義競爭僅為簡化解釋，基準差異保留。"
+    },
+    {
+      "page_id": 11,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/04-stroop.md",
+        "wiki/teaching-design.md"
+      ],
+      "reference_ids": [
+        6,
+        7
+      ],
+      "evidence": "墨色反應與一致／不一致定義正確；4題練習、24題正式、各12題、5秒為活動規格，無研究常模宣稱；可跳過，未直接推估多工效率。"
+    },
+    {
+      "page_id": 12,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/04-stroop.md",
+        "wiki/teaching-design.md",
+        "wiki/uncertainties.md"
+      ],
+      "reference_ids": [
+        6,
+        7
+      ],
+      "evidence": "正確且未逾時反應的平均差值方向正確；錯漏另列、資料不足不解讀、非診斷與不同基準不可混用均符合Wiki。"
+    },
+    {
+      "page_id": 13,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/processing.md",
+        "wiki/05-applications.md"
+      ],
+      "reference_ids": [
+        1,
+        4,
+        6
+      ],
+      "evidence": "三個問題整合明示教學地圖；生活例子未被宣稱為同時發生的腦階段或新研究。"
+    },
+    {
+      "page_id": 14,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/05-applications.md",
+        "wiki/07-related-experiments.md"
+      ],
+      "reference_ids": [
+        1,
+        4
+      ],
+      "evidence": "集中非緊急訊息是有依據的可嘗試建議；Strayer與Johnston 2001明示Noba轉述，手持／免持干擾與不推估事故率均有支持。"
+    },
+    {
+      "page_id": 15,
+      "result": "pass",
+      "wiki_support": "pass",
+      "citations": "pass",
+      "numbers": "pass",
+      "teaching_vs_empirical": "pass",
+      "approved_outline": "pass",
+      "wiki_files_checked": [
+        "wiki/sources.md"
+      ],
+      "reference_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "evidence": "七筆完整書目、原文URL、年代、DOI、取得層級與Noba署名／CC BY-NC-SA 4.0均與Wiki來源頁一致；未將二手轉述冒充原始論文閱讀。"
+    }
+  ],
+  "issues": [],
+  "optional": [
+    {
+      "page_ids": [
+        8,
+        9,
+        11,
+        12
+      ],
+      "kind": "reader_label_clarity",
+      "suggestion": "後續樣張的計分細節中，可將題數、5秒逾時及最低正確題數統一標為「本活動教學設定，非研究常模」。目前未將這些數值冒充研究結果，因此不構成忠實度阻擋。"
+    }
+  ]
+}

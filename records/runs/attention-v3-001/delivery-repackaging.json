@@ -1,0 +1,42 @@
+{
+  "time": "2026-11-21T14:15:29.827366+08:00",
+  "result": "local_repackaging_verified",
+  "first_verified_build": {
+    "time": "2026-11-21T14:14:42.393132+08:00",
+    "source_commit": "20e4807a790d489f6400dbe75e393e357e5d691c",
+    "accepted_html_sha256": "9899bf1d6e717734e8030c9fad818c4fb77cce1a3cfc6fb8decd1b748d1c7100",
+    "html_copy": "byte-identical",
+    "git_bundle_verify": "pass",
+    "packages": [
+      {
+        "file": "attention-assignment.zip",
+        "bytes": 877963,
+        "entries": 146,
+        "zip_sha256": "801bbd1d65f49877cadc0e5ae90030b7dffb79d3c1e8e576cee3fd9cb6267ede",
+        "crc": "pass",
+        "all_archived_bytes_match": "pass"
+      },
+      {
+        "file": "attention-screenshots.zip",
+        "bytes": 26962120,
+        "entries": 304,
+        "zip_sha256": "282f6d347de14c8f1dd20dbd31ab39ae8321e26905857f151569ddea255ab97d",
+        "crc": "pass",
+        "all_archived_bytes_match": "pass"
+      },
+      {
+        "file": "attention-git-history.zip",
+        "bytes": 28280510,
+        "entries": 4,
+        "zip_sha256": "7cb4ae082864a13dcdf106ed4bb199f170020abf63825feae322d9579336b1be",
+        "crc": "pass",
+        "all_archived_bytes_match": "pass"
+      }
+    ],
+    "remote_file_service": "not verified; local tests cannot test download UI"
+  },
+  "validation_scope": "ZIP CRC, archived byte equality, Git bundle verification, accepted HTML byte equality. No new browser or academic tests needed because content and code are unchanged.",
+  "final_package_checks": "delivery/PACKAGE-CHECKS.json is regenerated alongside current packages and contains their current hashes. first_verified_build is a historical first-build snapshot, not a claim that later metadata-only rebuild has the same ZIP hash.",
+  "server_download_recovery": "unverified",
+  "note": "The user approved content. We did not infer which local browser/offline test they performed."
+}
